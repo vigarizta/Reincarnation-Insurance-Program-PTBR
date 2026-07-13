@@ -1,0 +1,13 @@
+﻿R.I.P. Brazilian Portuguese Localization - Community Contribution License Notice
+
+This localization package is distributed free of charge as a voluntary, non-commercial community contribution.
+
+All rights to Reincarnation Insurance Program (R.I.P.), including its name, assets, code, text, characters, trademarks, and all related intellectual property, belong to their respective owners, including WarmCore Studio, 2P Games, and any other applicable rights holders.
+
+This package does not transfer ownership of any game content or intellectual property. It does not claim any ownership over the original game or its assets.
+
+The localization files are provided solely to allow WarmCore Studio and 2P Games to evaluate the Brazilian Portuguese localization and, if they find it useful, consider it for possible official integration.
+
+This contribution is offered with no expectation of payment, employment, royalties, licensing fees, or any other form of financial compensation.
+
+If the localization is ever officially integrated, credit as the Brazilian Portuguese translator would be sincerely appreciated, but the contribution remains free of charge.
