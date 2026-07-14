@@ -13,31 +13,32 @@ This glossary summarizes the main standardized terminology decisions used in the
 | Belt | Cinto | Equipment slot/type. |
 | Grenade | Granada | Weapon/throwable term. |
 | SMG | SMG | Preserved as common weapon abbreviation. |
-| Rocket Launcher | Lanca-Foguetes | Weapon type. |
-| Sniper Rifle | Rifle de Precisao | Weapon type. |
+| Rocket Launcher | Lança-Foguetes | Weapon type. |
+| Sniper Rifle | Rifle de Precisão | Weapon type. |
 | Compound Bow | Arco Composto | Weapon type. |
 | Shotgun | Espingarda | Weapon type. |
 | Heavy | Pesado | Equipment/weapon descriptor. |
 | Light | Leve | Equipment/weapon descriptor. |
-| Drop Rate | Chance de Obtencao | Used for drop-rate/stat contexts. |
+| Drop Rate | Chance de Obtenção | Used for drop-rate/stat contexts. |
 | Drop | Context-dependent | Not fixed globally; translated according to context. |
-| Dash | Avanco | General ability/UI term; context may vary. |
+| Dash | Avanço | General ability/UI term; context may vary. |
 | Boss | Chefe | Used when referring to boss enemies in regular text. |
-| DMG Bonus | Bonus de Dano | UI/stat term. |
-| Duration | Duracao | UI/stat term. |
+| DMG Bonus | Bônus de Dano | UI/stat term. |
+| Duration | Duração | UI/stat term. |
 | Charges | Cargas | Ability/stat term. |
 | EXP gained | EXP obtida | Progression term. |
 | Equipment | Equipamento | General category. |
 | Divine Tech | Tecnologia Divina | Core game system term. |
-| Tactical Skill | Habilidade Tatica | Ability category. |
+| Tactical Skill | Habilidade Tática | Ability category. |
 | Weapon | Arma | General term. |
 | Damage | Dano | Combat stat. |
 | Cooldown | Recarga | Ability cooldown term. |
-| Fire Rate | Cadencia de Tiro | Weapon stat. |
+| Fire Rate | Cadência de Tiro | Weapon stat. |
 | Reload | Recarregar | Command/action term. |
-| Inventory | Inventario | UI section. |
+| Inventory | Inventário | UI section. |
 | Interact | Interagir | Command/action term. |
 | Move Forward | Mover para Frente | Input label. |
-| Move Backward | Mover para Tras | Input label. |
+| Move Backward | Mover para Trás | Input label. |
 | Move Left | Mover para a Esquerda | Input label. |
 | Move Right | Mover para a Direita | Input label. |
+| Buzzsaw | Lâminas | Used when referring to the Mechatech skill category. |

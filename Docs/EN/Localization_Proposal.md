@@ -12,7 +12,7 @@ The package includes the translated localization source, a terminology glossary,
 
 The purpose of this proposal is simple: to make the Brazilian Portuguese localization available to the team in a clean, organized, and technically reviewable format, should it be useful for future official support.
 
-[Figure 1 - Main Menu screenshot placeholder]
+![Main Menu](../../Screenshots/Menu/menu_01.png)
 
 ## Why This Localization Was Created
 
@@ -37,7 +37,7 @@ The localization project covers the main translated text used by the game, inclu
 
 The work also included terminology standardization, manual editorial review, consistency checks, and in-game testing through a standalone patch build.
 
-[Figure 2 - Inventory or equipment screenshot placeholder]
+![Inventory and Equipment](../../Screenshots/Menu/menu_03.png)
 
 ## Localization Goals
 
@@ -66,7 +66,7 @@ This approach has several advantages for review:
 
 The patch is not presented as a replacement for an official integration process. It is only a practical demonstration build showing the localization in use. If the team decides to evaluate the localization internally, the included source files should make it easier to compare, import, adjust, or rebuild the text using the official development workflow.
 
-[Figure 3 - Gameplay dialogue screenshot placeholder]
+![Tutorial](../../Screenshots/Gameplay/gameplay_01.png)
 
 ## Review Process
 
@@ -81,7 +81,7 @@ The localization went through multiple quality-focused passes:
 
 Particular attention was given to equipment and ability descriptions, since these directly affect player understanding. Dialogue was also reviewed for rhythm and tone so that it would not feel like machine output or a literal conversion from the source language.
 
-[Figure 4 - Equipment or ability screen screenshot placeholder]
+![Divine Technology](../../Screenshots/Gameplay/gameplay_03.png)
 
 ## Included Source Files
 

@@ -1,15 +1,15 @@
-﻿# Screenshots
+# Screenshots
 
-This folder currently contains visual placeholders only. They keep the repository structure ready for future in-game screenshots without including copyrighted game captures in the initial public package.
-
-Suggested future files:
+This folder contains screenshots of the Brazilian Portuguese localization running in-game.
 
 Menu:
-- `menu_01.png` - Main menu or title screen.
-- `menu_02.png` - Settings or language-related menu.
-- `menu_03.png` - Inventory, equipment, or interface screen.
+
+- `menu_01.png` - Main menu.
+- `menu_02.png` - Settings screen.
+- `menu_03.png` - Inventory / equipment screen.
 
 Gameplay:
-- `gameplay_01.png` - Gameplay UI with localized text.
-- `gameplay_02.png` - Dialogue or mission/event text.
-- `gameplay_03.png` - Equipment, ability, or combat-related text.
+
+- `gameplay_01.png` - Tutorial screen.
+- `gameplay_02.png` - Talent tree.
+- `gameplay_03.png` - Divine Technology screen.
