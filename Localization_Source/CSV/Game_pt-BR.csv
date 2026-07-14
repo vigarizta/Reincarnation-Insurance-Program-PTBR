@@ -1310,7 +1310,7 @@ EquipmentText/Attribute_Attack_Desc9,Global duration bonus for all Divine Tech a
 EquipmentText/Attribute_Attack_Desc8,Global Area bonus for all Divine Tech abilities.,Bônus global de Área para todas as habilidades de Tecnologia Divina.
 EquipmentText/ModuleTips2108,Duration of all Events buffs is doubled.,A duração de todos os bônus de Eventos é dobrada.
 EquipmentText/Attribute_Attack_Desc6,Overall chance for attacks to deal critical damage,Chance geral de ataques causarem dano crítico
-EquipmentText/ModuleTips2126,Damage of all Buzzsaw-type skills +<Green_14>50%</>.,Dano of all Buzzsaw-type skills +<Green_14>50%</>.
+EquipmentText/ModuleTips2126,Damage of all Buzzsaw-type skills +<Green_14>50%</>.,+<Green_14>50%</> de dano em todas as habilidades de Lâminas.
 EquipmentText/Armor_Type_Glove,Gloves,Luvas
 EquipmentText/Weapon_Type_Ps,Pistol,Pistola
 EquipmentText/Armor_Type_Wristband,Wristband,Bracelete
@@ -1397,7 +1397,7 @@ EquipmentText/TalentName5409,Collector,Colecionador
 EquipmentText/Attribute_Attack_Name,Attack,Ataque
 EquipmentText/ModuleTips2123,"Attacks have a <Green_14>10%</> chance to Mark an enemy, increasing all damage they take by <Green_14>20%</> for <Green_14>5</> seconds. Marked enemies explode on death, dealing <Green_14>{Param}</> damage.","Ataques têm <Green_14>10%</> de chance de Marcar um inimigo, aumentando todo o dano sofrido por ele em <Green_14>20%</> por <Green_14>5</> segundos. Inimigos Marcados explodem ao morrer, causando <Green_14>{Param}</> de dano."
 EquipmentText/ModuleTips2125,"When attacking enemies with less than <Green_14>35%</> HP, <Green_14>12%</> chance to deal <Green_14>5x</> damage.","Ao atacar inimigos com menos de <Green_14>35%</> de Vida, <Green_14>12%</> de chance de causar <Green_14>5x</> de dano."
-EquipmentText/ModuleTips2100,"When an enemy attacks, fire a [Psionic] buzzsaw at them that ricochets between enemies <Green_14>5</> times, dealing <Green_14>{Param}</> damage. Cooldown <Green_14>1</>s.","Quando um inimigo ataca, dispara uma serra [Psiônica] contra ele, que ricocheteia entre inimigos <Green_14>5</> vezes, causando <Green_14>{Param}</> de dano. Recarga <Green_14>1</>s."
+EquipmentText/ModuleTips2100,"When an enemy attacks, fire a [Psionic] buzzsaw at them that ricochets between enemies <Green_14>5</> times, dealing <Green_14>{Param}</> damage. Cooldown <Green_14>1</>s.","Quando um inimigo ataca, dispara uma lâmina [Psiônica] contra ele, que ricocheteia entre inimigos <Green_14>5</> vezes, causando <Green_14>{Param}</> de dano. Recarga <Green_14>1</>s."
 EquipmentText/ModuleTips2070,Enemies take <Green_14>12%</> bonus damage for each status ailment applied to them.,Inimigos sofrem <Green_14>12%</> de dano bônus para cada aflição de status aplicada a eles.
 EquipmentText/EquipmentTypeID230002,Scout Gloves,Scout Luvas
 EquipmentText/EquipmentTypeID120503,Executioner,Executor

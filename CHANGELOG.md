@@ -28,3 +28,9 @@ This release is a voluntary, non-commercial community contribution. It is provid
 - Fixed the Combat Guide Divine Technology section for better readability.
 - Replaced the long storage title with a shorter PT-BR UI label: "Espaços do Armazém".
 - Rebuilt optional patch only; original game files remain untouched.
+
+## v1.0.4 - Terminology Fix
+
+- Standardized `Buzzsaw` as `Lâminas` when referring to the Mechatech skill category.
+- Fixed the equipment tooltip for Buzzsaw-type skill damage.
+- Adjusted the related [Psionic] buzzsaw description to use `lâmina` instead of `serra`.
