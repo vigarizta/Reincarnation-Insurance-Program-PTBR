@@ -12,9 +12,13 @@ Reincarnation Insurance Program (R.I.P.) is an action-focused game with equipmen
 
 ## Why This Localization Was Created
 
-This project was completed because I genuinely enjoyed the game and wanted to make it more accessible to Brazilian Portuguese players. It is offered freely, with no expectation of payment, employment, royalties, or any other form of financial compensation.
+This project was completed to make the game more accessible to Brazilian Portuguese players. It is offered freely, with no expectation of payment, employment, royalties, or any other form of financial compensation.
 
-If the development and publishing teams find the work useful and ever decide to integrate it officially, I would simply be honored to receive credit as the Brazilian Portuguese translator.
+Project maintained by GitHub user **vigarizta**.
+
+Questions, feedback, or requests can be sent through the project's GitHub Issues page:
+
+https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/issues
 
 ## Review and Quality Process
 
@@ -38,16 +42,16 @@ This package includes:
 - An optional standalone patch build for testing.
 - Placeholder folders for screenshots that can be added later.
 
-## Screenshot Placeholders
+## Screenshots
 
-The screenshot files currently included are neutral placeholders, not gameplay captures. They keep the public repository ready for future in-game screenshots without adding copyrighted visual material to the initial package.
+The screenshot files show the Brazilian Portuguese localization running in-game.
 
-- [Menu placeholder 01](Screenshots/Menu/menu_01.png)
-- [Menu placeholder 02](Screenshots/Menu/menu_02.png)
-- [Menu placeholder 03](Screenshots/Menu/menu_03.png)
-- [Gameplay placeholder 01](Screenshots/Gameplay/gameplay_01.png)
-- [Gameplay placeholder 02](Screenshots/Gameplay/gameplay_02.png)
-- [Gameplay placeholder 03](Screenshots/Gameplay/gameplay_03.png)
+- [Menu 01](Screenshots/Menu/menu_01.png)
+- [Menu 02](Screenshots/Menu/menu_02.png)
+- [Inventory / Equipment](Screenshots/Menu/menu_03.png)
+- [Tutorial](Screenshots/Gameplay/gameplay_01.png)
+- [Talent Tree](Screenshots/Gameplay/gameplay_02.png)
+- [Divine Technology](Screenshots/Gameplay/gameplay_03.png)
 
 ## Technical Note
 

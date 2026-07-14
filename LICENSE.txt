@@ -10,4 +10,4 @@ The localization files are provided solely to allow WarmCore Studio and 2P Games
 
 This contribution is offered with no expectation of payment, employment, royalties, licensing fees, or any other form of financial compensation.
 
-If the localization is ever officially integrated, credit as the Brazilian Portuguese translator would be sincerely appreciated, but the contribution remains free of charge.
+If the localization is ever officially integrated, credit may be attributed to GitHub user "vigarizta", but the contribution remains free of charge.

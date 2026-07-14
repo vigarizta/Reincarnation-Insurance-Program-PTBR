@@ -14,9 +14,9 @@ The purpose of this proposal is simple: to make the Brazilian Portuguese localiz
 
 [Figure 1 - Main Menu screenshot placeholder]
 
-## Why I Created This Localization
+## Why This Localization Was Created
 
-I created this localization because I genuinely enjoyed **Reincarnation Insurance Program (R.I.P.)**. After completing the game and spending time with its systems, tone, interface, and progression structure, I noticed that Brazilian Portuguese support was not available and decided to prepare a complete localization on my own initiative.
+This localization was created after completing **Reincarnation Insurance Program (R.I.P.)** and spending time with its systems, tone, interface, and progression structure. Brazilian Portuguese support was not available, so a complete localization was prepared as an independent community contribution.
 
 Brazil has a large and passionate PC gaming community, and many players are more comfortable experiencing system-heavy games in Brazilian Portuguese. Because R.I.P. includes equipment descriptions, combat terms, abilities, event text, update notes, and dialogue, a full localization can help players understand the game more naturally and enjoy its systems with less friction.
 
@@ -95,10 +95,10 @@ This Brazilian Portuguese localization is offered completely free of charge.
 
 There is no expectation of payment, employment, royalties, licensing fees, or any form of financial compensation. The purpose is simply to share the completed localization with WarmCore Studio and 2P Games in case it may be useful.
 
-If the localization is ever officially integrated into the game, I would simply be honored to receive credit as the Brazilian Portuguese translator. Beyond that, the contribution is made freely and respectfully as a thank-you to the team for creating the game.
+If the localization is ever officially integrated into the game, credit may be attributed to GitHub user **vigarizta**. Beyond that, the contribution is made freely and respectfully as a thank-you to the team for creating the game.
 
 ## Thank You
 
-Thank you to WarmCore Studio and 2P Games for creating and publishing **Reincarnation Insurance Program (R.I.P.)**. I sincerely enjoyed the experience and appreciated the opportunity to spend time with its world, systems, and style through this localization project.
+Thank you to WarmCore Studio and 2P Games for creating and publishing **Reincarnation Insurance Program (R.I.P.)**. This localization project was prepared with appreciation for the game's world, systems, and style.
 
-This Brazilian Portuguese localization is offered as a free community contribution. I sincerely hope it can be useful to your team, and I would be honored if it eventually became part of the official game. Thank you for creating such a memorable experience.
+This Brazilian Portuguese localization is offered as a free community contribution. The project is maintained publicly by GitHub user **vigarizta** and is shared in the hope that it can be useful to the team.
