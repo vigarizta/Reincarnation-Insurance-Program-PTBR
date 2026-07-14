@@ -39,6 +39,7 @@ This package includes:
 - A glossary of standardized terms.
 - Translation and review notes.
 - A status summary for evaluation.
+- A [known issues and reporting guide](KNOWN_ISSUES.md).
 - An optional standalone patch build for testing.
 - Placeholder folders for screenshots that can be added later.
 
