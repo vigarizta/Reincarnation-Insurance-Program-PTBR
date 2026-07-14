@@ -1,21 +1,27 @@
 # Reincarnation Insurance Program
-## Brazilian Portuguese Localization
 
-**🇺🇸 English**
+## Brazilian Portuguese Localization Project
 
-This repository is the community hub for the Brazilian Portuguese localization of **Reincarnation Insurance Program**.
+Community-maintained Brazilian Portuguese localization for **Reincarnation Insurance Program**.
 
-- [English documentation](Docs/EN/README.md)
+![Localization Status](https://img.shields.io/badge/localization-complete-brightgreen)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Community Project](https://img.shields.io/badge/community-project-blue)
+![Language](https://img.shields.io/badge/language-PT--BR-green)
+![Game Version](https://img.shields.io/badge/game-Early%20Access-orange)
+![Localization Version](https://img.shields.io/badge/localization-v1.0.4-blue)
+
+**🇺🇸 English Documentation**
+
+- [English documentation home](Docs/EN/README.md)
 - [Localization proposal](Docs/EN/Localization_Proposal.md)
 - [Translation notes](Docs/EN/Translation_Notes.md)
 - [Glossary](Docs/EN/Glossary.md)
 - [Known issues](Docs/EN/Known_Issues.md)
 
-**🇧🇷 Português**
+**🇧🇷 Documentação em Português**
 
-Este repositório é o ponto central da comunidade para manter e evoluir a localização PT-BR de **Reincarnation Insurance Program**.
-
-- [Documentação em português](Docs/PT/README.md)
+- [Início da documentação](Docs/PT/README.md)
 - [Proposta de localização](Docs/PT/Proposta_Localizacao.md)
 - [Notas da tradução](Docs/PT/Notas_da_Traducao.md)
 - [Glossário](Docs/PT/Glossario.md)
@@ -23,48 +29,56 @@ Este repositório é o ponto central da comunidade para manter e evoluir a local
 
 ---
 
-## Project Overview
+## About
 
-This project provides a complete Brazilian Portuguese localization for **Reincarnation Insurance Program**. It is maintained as a free community contribution by GitHub user **vigarizta**.
+This repository is the central community hub for the Brazilian Portuguese localization of **Reincarnation Insurance Program**.
 
-The repository is intended for:
+It is intended for:
 
-- Brazilian players who want to play the game in Portuguese.
-- Community members who want to report translation issues or suggest improvements.
-- Developers and publishers who want to evaluate the localization for possible official integration.
+- Brazilian players who want to play the game in Portuguese;
+- community members who want to report issues or suggest improvements;
+- contributors who want to help maintain the localization;
+- WarmCore Studio and 2P Games, if they wish to evaluate the project for possible official integration.
+
+The project is maintained by GitHub user **vigarizta**.
+
+## Why This Project Exists
+
+**Reincarnation Insurance Program** is in Early Access and may continue receiving updates, new text, UI changes, and balance adjustments. This repository keeps the Brazilian Portuguese localization organized, reviewable, and ready to evolve with future versions of the game.
+
+The goal is not only to provide a translation, but to maintain a professional localization project with clear documentation, issue reporting, version tracking, and community feedback.
 
 ## Current Status
 
-- Localization version: **v1.0.4**
-- Entries validated: **3680 / 3680**
-- Validation result: **0 errors, 0 warnings**
-- In-game testing: completed
-- UI review: completed
-- Terminology review: completed
-- Known localization issues: none currently documented
+- ✅ Complete localization
+- ✅ Gameplay tested
+- ✅ Manual terminology review
+- ✅ UI reviewed
+- ✅ Multiple QA passes
+- ✅ Community maintained
+- ✅ Standalone patch
+- ✅ Final validation: **3680 / 3680 entries, 0 errors, 0 warnings**
 
-## Screenshots
+Current localization version: **v1.0.4**
 
-![Main Menu](Screenshots/Menu/menu_01.png)
+## Features
 
-![Settings](Screenshots/Menu/menu_02.png)
-
-![Inventory / Equipment](Screenshots/Menu/menu_03.png)
-
-![Tutorial](Screenshots/Gameplay/gameplay_01.png)
-
-![Talent Tree](Screenshots/Gameplay/gameplay_02.png)
-
-![Divine Technology](Screenshots/Gameplay/gameplay_03.png)
+- Full Brazilian Portuguese localization source.
+- Standalone optional `.pak` patch for testing and community use.
+- Reviewed terminology and glossary.
+- Documentation in English and Portuguese.
+- Screenshots of the localization running in-game.
+- GitHub Issues workflow for community reports.
+- Templates for translation issues and feature requests.
 
 ## Installation
 
-1. Download the latest release package from [Releases](https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/releases).
+1. Download the latest package from [Releases](https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/releases).
 2. Open the `Optional_Patch` folder.
 3. Copy `RIP_PTBR_P.pak` to the game's `AKA_RIP/Content/Paks` folder.
 4. Start the game.
 
-The patch is standalone and does not overwrite the original game files. To remove it, delete only `RIP_PTBR_P.pak`.
+The patch is standalone and does not overwrite original game files. To remove it, delete only `RIP_PTBR_P.pak`.
 
 ## Documentation
 
@@ -84,19 +98,60 @@ Português:
 - [Glossário](Docs/PT/Glossario.md)
 - [Problemas conhecidos](Docs/PT/Problemas_Conhecidos.md)
 
-## Changelog
+Project files:
 
-See [CHANGELOG.md](CHANGELOG.md).
+- [Roadmap](ROADMAP.md)
+- [Version information](VERSION.md)
+- [Contributing guide](CONTRIBUTING.md)
+- [Code of conduct](CODE_OF_CONDUCT.md)
+- [Changelog](CHANGELOG.md)
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](Screenshots/Menu/menu_01.png)
+
+### Settings
+
+![Settings](Screenshots/Menu/menu_02.png)
+
+### Inventory / Equipment
+
+![Inventory / Equipment](Screenshots/Menu/menu_03.png)
+
+### Tutorial
+
+![Tutorial](Screenshots/Gameplay/gameplay_01.png)
+
+### Talent Tree
+
+![Talent Tree](Screenshots/Gameplay/gameplay_02.png)
+
+### Divine Technology
+
+![Divine Technology](Screenshots/Gameplay/gameplay_03.png)
+
+## Compatibility
+
+| Game Version | Localization Version | Status |
+| --- | --- | --- |
+| Early Access | v1.0.4 | Current community release |
+| Future game updates | TBD | To be reviewed when new text or UI changes are released |
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md).
 
 ## Releases
-
-Release notes should be written in both English and Portuguese for future releases.
 
 Latest release:
 
 - [Brazilian Portuguese Localization v1.0](https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/releases/tag/v1.0)
 
-## Report a Translation Issue
+Future release notes should include both English and Portuguese sections.
+
+## Report Translation Issues
 
 Any player can help improve the localization.
 
@@ -121,11 +176,47 @@ Community help is welcome. You can:
 - suggest more natural PT-BR phrasing;
 - report interface overflow or clipped text;
 - point out terminology inconsistencies;
-- review glossary decisions.
+- review glossary decisions;
+- suggest improvements for future updates.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License and Notice
+## Project Structure
+
+```text
+.
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── feature_request.md
+│       └── translation_issue.md
+├── Docs/
+│   ├── EN/
+│   │   ├── README.md
+│   │   ├── Localization_Proposal.md
+│   │   ├── Translation_Notes.md
+│   │   ├── Glossary.md
+│   │   └── Known_Issues.md
+│   └── PT/
+│       ├── README.md
+│       ├── Proposta_Localizacao.md
+│       ├── Notas_da_Traducao.md
+│       ├── Glossario.md
+│       └── Problemas_Conhecidos.md
+├── Localization_Source/
+│   ├── CSV/
+│   └── Glossary/
+├── Optional_Patch/
+├── Screenshots/
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE.txt
+├── ROADMAP.md
+├── VERSION.md
+└── README.md
+```
+
+## License
 
 See [LICENSE.txt](LICENSE.txt).
 
