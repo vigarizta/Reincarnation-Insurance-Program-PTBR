@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | Current Game Version | Early Access |
-| Current Localization Version | v1.0.4 |
+| Current Localization Version | v1.0.5 |
 | Last Updated | 2026-07-14 |
 | Maintainer | vigarizta |
 

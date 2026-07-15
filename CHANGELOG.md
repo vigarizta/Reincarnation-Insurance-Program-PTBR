@@ -4,6 +4,22 @@ All notable localization changes are documented here.
 
 Future releases should include notes in both English and Portuguese.
 
+## v1.0.5 - Residual English Fix
+
+### English
+
+- Fixed residual English `heal` in a Tactical Skill tooltip.
+- Standardized related Life recovery wording.
+- Fixed hybrid strings containing `you kill`, `you dash`, `random`, and `tech`.
+- Localized the `Heal` affix as `Cura`.
+
+### Português
+
+- Corrigido resíduo em inglês `heal` em tooltip de Habilidade Tática.
+- Padronizados textos relacionados a recuperação de Vida.
+- Corrigidas frases híbridas contendo `you kill`, `you dash`, `random` e `tech`.
+- Localizado o afixo `Heal` como `Cura`.
+
 ## v1.0.4 - Terminology Fix
 
 ### English

@@ -9,7 +9,7 @@ Community-maintained Brazilian Portuguese localization for **Reincarnation Insur
 ![Community Project](https://img.shields.io/badge/community-project-blue)
 ![Language](https://img.shields.io/badge/language-PT--BR-green)
 ![Game Version](https://img.shields.io/badge/game-Early%20Access-orange)
-![Localization Version](https://img.shields.io/badge/localization-v1.0.4-blue)
+![Localization Version](https://img.shields.io/badge/localization-v1.0.5-blue)
 
 **🇺🇸 English Documentation**
 
@@ -59,7 +59,7 @@ The goal is not only to provide a translation, but to maintain a professional lo
 - ✅ Standalone patch
 - ✅ Final validation: **3680 / 3680 entries, 0 errors, 0 warnings**
 
-Current localization version: **v1.0.4**
+Current localization version: **v1.0.5**
 
 ## Features
 
@@ -194,7 +194,7 @@ Project files:
 
 | Game Version | Localization Version | Status |
 | --- | --- | --- |
-| Early Access | v1.0.4 | Current community release |
+| Early Access | v1.0.5 | Current community release |
 | Future game updates | TBD | To be reviewed when new text or UI changes are released |
 
 ## Roadmap

@@ -19,7 +19,7 @@ O patch não substitui arquivos originais do jogo. Para remover a tradução, ap
 
 ## Status Atual
 
-- Versão da localização: **v1.0.4**
+- Versão da localização: **v1.0.5**
 - Registros validados: **3680 / 3680**
 - Validação: **0 erros, 0 avisos**
 - Teste em jogo: concluído

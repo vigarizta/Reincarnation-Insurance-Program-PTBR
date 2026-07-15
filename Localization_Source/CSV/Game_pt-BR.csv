@@ -55,7 +55,7 @@ DivineTechText/HanBing_Passive7_Name,Frost Module,Módulo Gélido
 DivineTechText/HanBing_Skill1_Name,Icicle Array,Matriz de Estalactites
 DivineTechText/BaoZha_Psionic1_Name,Shockwave Protocol,Protocolo de Onda de Choque
 DivineTechText/Type_Dash,Dash,Avanço
-DivineTechText/QiangSuan_Dash1_Desc,"Dashing links enemies, dealing damage while healing you.","Avançar conecta inimigos, causando dano enquanto cura você."
+DivineTechText/QiangSuan_Dash1_Desc,"Dashing links enemies, dealing damage while healing you.","Avançar conecta inimigos, causando dano enquanto recupera sua Vida."
 DivineTechText/HanBing_Passive1_Desc,Increases Dash Damage.,Aumenta o dano de Avanço.
 DivineTechText/Param_DashDMG,Dash Damage: <Green_24>%s</>,Dano de Avanço: <Green_24>%s</>
 DivineTechText/TechDesc7038,"Dash with spinning ice blades, damaging enemies and creating an ice path.","Avança com lâminas de gelo giratórias, causando dano aos inimigos e criando um caminho de gelo."
@@ -362,7 +362,7 @@ DivineTechText/ZhiXie_Passive7_Desc,Killing an enemy with Auxiliary Weapons has 
 DivineTechText/QiangSuan_Passive2_Desc,Increases Auxiliary Weapon Duration.,Aumenta a duração de Armas Auxiliares.
 DivineTechText/TechDesc7031,Auxiliary weapon attacks have a chance to fire a [Psionic] fireball on hit.,Ataques de Armas Auxiliares têm chance de disparar uma bola de fogo [Psiônica] ao acertar.
 DivineTechText/TechDesc7035,Auxiliary Weapon attacks have a chance to fire a [Chase] arc on hit.,Ataques de Armas Auxiliares têm chance de disparar um arco de [Perseguição] ao acertar.
-DivineTechText/TechDesc7042,Auxiliary Weapon has a chance to heal after dealing damage.,Armas Auxiliares têm chance de curar após causar dano.
+DivineTechText/TechDesc7042,Auxiliary Weapon has a chance to heal after dealing damage.,Armas Auxiliares têm chance de recuperar Vida após causar dano.
 DivineTechText/QiangSuan_Passive2_Name,Auxiliary Hourglass,Ampulheta Auxiliar
 DivineTechText/TechName7028,Overloaded Barrel,Cano Sobrecarregado
 DivineTechText/Param_FireBonus,Shots per Fire Bonus: <Green_24>%s</>,Bônus de Disparos por Tiro: <Green_24>%s</>
@@ -1491,14 +1491,14 @@ EquipmentText/TalentDesc3210,"Per 100 kills, [Tactical Skill] DMG +<Green_12>5%<
 EquipmentText/ModuleTips2128,"For every <Green_14>100</> enemies killed, Fire Rate and Damage increase by <Green_14>1%</>, up to <Green_14>30</> times.","A cada <Green_14>100</> inimigos abatidos, Cadência de Tiro e Dano aumentam em <Green_14>1%</>, até <Green_14>30</> vezes."
 EquipmentText/TalentDesc1010,"Per hit, +<Green_12>3.5%</>[Weapon] DMG for <Green_12>3</>s (Max <Green_12>35%</>)","Por acerto, +<Green_12>3.5%</> de Dano de [Arma] por <Green_12>3</>s (Máx. <Green_12>35%</>)"
 EquipmentText/TalentDesc5010,"Every 2 shots, next shot has +<Green_12>4</> projectiles","A cada 2 disparos, o próximo disparo tem +<Green_12>4</> projéteis"
-EquipmentText/ModuleTips2047,"Whenever [Tactical Skill] triggers, heal <Green_14>4</> HP.","Sempre que [Habilidade Tática] acionars, heal <Green_14>4</> Vida."
+EquipmentText/ModuleTips2047,"Whenever [Tactical Skill] triggers, heal <Green_14>4</> HP.","Ao ativar uma [Habilidade Tática], recupere <Green_14>4</> de Vida."
 EquipmentText/ModuleTips2039,"Whenever [Psionic] tech triggers, Armor +<Green_14>3</> for <Green_14>5</>s, max <Green_14>7</> stacks.","Sempre que tecnologia [Psiônica] é acionada, Armadura +<Green_14>3</> por <Green_14>5</>s, máximo de <Green_14>7</> acúmulos."
 EquipmentText/ModuleTips2038,"Whenever [Psionic] tech deals damage, All Damage +<Green_14>3%</> for <Green_14>3</>s, max <Green_14>10</> stacks.","Sempre que tecnologia [Psiônica] causa dano, Todo Dano +<Green_14>3%</> por <Green_14>3</>s, máximo de <Green_14>10</> acúmulos."
 EquipmentText/ModuleTips2021,"Whenever [Chase] tech triggers, [Chase] Damage +<Green_14>5.5%</> for <Green_14>2s</>, max <Green_14>10</> stacks.","Sempre que tecnologia de [Perseguição] é acionada, [Perseguição] Dano +<Green_14>5.5%</> por <Green_14>2s</>, máximo de <Green_14>10</> acúmulos."
-EquipmentText/ModuleTips2022,"Whenever [Chase] tech triggers, restore <Green_14>0.5</> HP.","Sempre que [Perseguição] tech acionars, restaurar <Green_14>0.5</> Vida."
+EquipmentText/ModuleTips2022,"Whenever [Chase] tech triggers, restore <Green_14>0.5</> HP.","Sempre que [Perseguição] for ativada, recupere <Green_14>0.5</> de Vida."
 EquipmentText/ModuleTips2078,"Whenever you interact with an investigation event, there is a <Green_14>3%</> chance to trigger the magnet","Sempre que você interage com um evento de investigação, há <Green_14>3%</> de chance de acionar o ímã"
-EquipmentText/ModuleTips2020,"Whenever you dash, trigger a random [Chase] tech.","Sempre que you dash, acionar a random [Perseguição] tech."
-EquipmentText/ModuleTips2074,"Whenever you kill an elite, heal <Green_14>10</> HP.","Sempre que you kill an elite, heal <Green_14>10</> Vida."
+EquipmentText/ModuleTips2020,"Whenever you dash, trigger a random [Chase] tech.","Sempre que você avançar, ative uma tecnologia de [Perseguição] aleatória."
+EquipmentText/ModuleTips2074,"Whenever you kill an elite, heal <Green_14>10</> HP.","Ao abater um Elite, recupere <Green_14>10</> de Vida."
 EquipmentText/ModuleTips2099,"Whenever you deal [Psionic] damage, [Weapon] damage is increased by <Green_14>10%</> for <Green_14>5</> seconds. Stacks up to <Green_14>5</> times.","Sempre que você causa dano [Psiônico], o dano de [Arma] aumenta em <Green_14>10%</> por <Green_14>5</> segundos. Acumula até <Green_14>5</> vezes."
 EquipmentText/TalentDesc5109,"For each [Chase] Tech you have, [Weapon] Damage +<Green_12>8%</>, up to <Green_12>6</> stacks.","Para cada Tecnologia de [Perseguição] que você possui, [Arma] Dano +<Green_12>8%</>, até <Green_12>6</> acúmulos."
 EquipmentText/ModuleTips2146,"For each [Chase] Tech you have, [Weapon] DMG +<Green_14>15%</>, up to <Green_14>6</> stacks.","Para cada Tecnologia de [Perseguição] que você possui, [Arma] Dano +<Green_14>15%</>, até <Green_14>6</> acúmulos."
@@ -1633,7 +1633,7 @@ EquipmentText/Attribute_Survival_Name,Survival,Sobrevivência
 EquipmentText/EquipmentTypeID270506,Bio-Sustainer Program,Programa de Biossustentação
 EquipmentText/AffixeName2049,Electric Light,Electric Light
 EquipmentText/EquipmentTypeID231501,EMP Gauntlets,Manoplas EMP
-EquipmentText/AffixeName5,Heal,Heal
+EquipmentText/AffixeName5,Heal,Cura
 EquipmentText/TalentName4102,Rapid Aux,Rapid Aux
 EquipmentText/TalentName1000,Rapid Fire,Rapid Fire
 EquipmentText/TalentName1008,Rapid Fire,Rapid Fire

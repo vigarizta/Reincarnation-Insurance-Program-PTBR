@@ -1,6 +1,6 @@
 # Problemas Conhecidos
 
-Até a versão **v1.0.4**, não há problemas conhecidos de localização após revisão em jogo e QA da tradução.
+Até a versão **v1.0.5**, não há problemas conhecidos de localização após revisão em jogo e QA da tradução.
 
 O projeto passou por:
 

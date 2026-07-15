@@ -1,6 +1,6 @@
 # Known Issues
 
-As of version v1.0.4, no known localization issues remain after gameplay review and localization QA.
+As of version v1.0.5, no known localization issues remain after gameplay review and localization QA.
 
 The project has undergone:
 

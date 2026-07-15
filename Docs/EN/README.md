@@ -13,7 +13,7 @@ It is intended for developers, publishers, reviewers, and contributors who want 
 
 ## Current Status
 
-- Version: **v1.0.4**
+- Version: **v1.0.5**
 - Scope: complete Brazilian Portuguese localization
 - Validation: **3680 / 3680 entries, 0 errors, 0 warnings**
 - In-game testing: completed
