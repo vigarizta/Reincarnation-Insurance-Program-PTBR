@@ -80,6 +80,64 @@ Current localization version: **v1.0.4**
 
 The patch is standalone and does not overwrite original game files. To remove it, delete only `RIP_PTBR_P.pak`.
 
+## Downloads
+
+### ⭐ Easy Installation (Recommended)
+
+Download **RIP_PTBR_Installer.exe**.
+
+Simply run the installer and follow the instructions.
+
+> Windows SmartScreen or antivirus software may display a warning because the installer is not digitally signed. This is normal for community-created software. The installer only automates the installation of the localization.
+
+### 🇧🇷 Instalação Fácil (Recomendado)
+
+Baixe **RIP_PTBR_Installer.exe**.
+
+Basta executar o instalador e seguir as instruções.
+
+> O Windows SmartScreen ou o antivírus podem exibir um aviso porque o instalador não possui assinatura digital. Isso é normal em softwares criados pela comunidade. O instalador apenas automatiza a instalação da localização.
+
+---
+
+### ⚙️ Manual Installation
+
+Download **RIP_PTBR_P.pak**.
+
+Copy the file into:
+
+```text
+AKA_RIP/Content/Paks/
+```
+
+### 🇧🇷 Instalação Manual
+
+Baixe **RIP_PTBR_P.pak**.
+
+Copie o arquivo para:
+
+```text
+AKA_RIP/Content/Paks/
+```
+
+---
+
+### 📄 Documentation
+
+Download **RIP_PTBR_Localization_v1.0.zip**.
+
+Contains documentation, localization sources and project information.
+
+### 🇧🇷 Documentação
+
+Baixe **RIP_PTBR_Localization_v1.0.zip**.
+
+Contém documentação, arquivos-fonte da localização e informações do projeto.
+
+If you find any issue, please collaborate with us so we can keep improving the localization.
+
+Se encontrar algum erro, colabore para melhorarmos a localização.
+
 ## Documentation
 
 English:
