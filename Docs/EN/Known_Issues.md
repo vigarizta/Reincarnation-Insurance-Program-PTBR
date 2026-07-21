@@ -1,6 +1,6 @@
 # Known Issues
 
-As of version v1.0.5, no known localization issues remain after gameplay review and localization QA.
+As of version v1.1.0, no known localization issues remain after the Steam BuildID 24259799 compatibility rebuild and localization QA.
 
 The project has undergone:
 
@@ -10,7 +10,8 @@ The project has undergone:
 - In-game testing
 - Multiple gameplay-based localization passes
 - Translation consistency review
-- Final validation (3680 / 3680 entries, 0 errors, 0 warnings)
+- Final validation (3753 / 3753 entries, 0 errors, 0 warnings)
+- Compatibility rebuild using Steam BuildID 24259799 as the base
 
 If you encounter any of the following:
 

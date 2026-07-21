@@ -19,10 +19,11 @@ O patch não substitui arquivos originais do jogo. Para remover a tradução, ap
 
 ## Status Atual
 
-- Versão da localização: **v1.0.5**
-- Registros validados: **3680 / 3680**
+- Versão da localização: **v1.1.0**
+- Steam BuildID compatível: **24259799**
+- Registros validados: **3753 / 3753**
 - Validação: **0 erros, 0 avisos**
-- Teste em jogo: concluído
+- Teste de inicialização com o patch reconstruído: concluído
 - Revisão de interface: concluída
 - Revisão terminológica: concluída
 - Problemas conhecidos: nenhum no momento
@@ -33,6 +34,7 @@ O patch não substitui arquivos originais do jogo. Para remover a tradução, ap
 - [Notas da tradução](Notas_da_Traducao.md)
 - [Glossário](Glossario.md)
 - [Problemas conhecidos](Problemas_Conhecidos.md)
+- [Compatibilidade](../../COMPATIBILITY.md)
 
 ## Como Reportar Erros
 

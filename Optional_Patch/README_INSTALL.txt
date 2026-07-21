@@ -1,6 +1,10 @@
 ﻿# Installation Notes for Optional Patch
 
-`RIP_PTBR_P.pak` is included only as a demonstration and testing build of the Brazilian Portuguese localization.
+`RIP_PTBR_P.pak` is included as the standalone Brazilian Portuguese localization patch.
+
+Current version: **v1.1.0**
+
+Compatible Steam BuildID: **24259799**
 
 ## Manual Installation
 
@@ -24,4 +28,5 @@ No original game files are overwritten by this patch.
 
 - This patch is provided only for evaluation and testing.
 - The original game package remains untouched.
+- This version uses a minimal locres-only patch architecture to reduce compatibility risks.
 - The source files are included separately so the development team can evaluate or integrate the localization through their official pipeline if desired.

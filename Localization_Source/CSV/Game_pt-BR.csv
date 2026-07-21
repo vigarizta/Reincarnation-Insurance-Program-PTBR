@@ -532,15 +532,20 @@ EquipmentText/ModuleTips2142,"[Weapon] Fire Rate -<red_14>50%</>, [Auxiliary Wea
 EquipmentText/TalentDesc1000,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
 EquipmentText/TalentDesc1008,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
 EquipmentText/TalentDesc1105,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
+EquipmentText/TalentDesc1201,[Weapon] Fire Rate +<Green_12>%s%</>,Cadência de Tiro de [Arma] +<Green_12>%s%</>
 EquipmentText/TalentDesc2001,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
+EquipmentText/TalentDesc2101,[Weapon] Fire Rate +<Green_12>%s%</>,Cadência de Tiro de [Arma] +<Green_12>%s%</>
 EquipmentText/TalentDesc4007,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
 EquipmentText/TalentDesc4103,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
 EquipmentText/TalentDesc5000,[Weapon] Fire Rate +<Green_12>%s%</>,[Arma] Cadência de Tiro +<Green_12>%s%</>
+EquipmentText/TalentDesc5101,[Weapon] Fire Rate +<Green_12>%s%</>,Cadência de Tiro de [Arma] +<Green_12>%s%</>
 EquipmentText/arr_BaseAttributeBonusDisplay27,[Weapon] Fire Rate + <Green_14>%s%</>,[Arma] Cadência de Tiro + <Green_14>%s%</>
 EquipmentText/TalentDesc1001,[Weapon] Magazine +<Green_12>%s%</>,[Arma] Carregador +<Green_12>%s%</>
 EquipmentText/TalentDesc1005,[Weapon] Magazine +<Green_12>%s%</>,[Arma] Carregador +<Green_12>%s%</>
 EquipmentText/TalentDesc1107,[Weapon] Magazine +<Green_12>%s%</>,[Arma] Carregador +<Green_12>%s%</>
+EquipmentText/TalentDesc1208,[Weapon] Magazine +<Green_12>%s%</>,Carregador de [Arma] +<Green_12>%s%</>
 EquipmentText/TalentDesc2005,[Weapon] Magazine +<Green_12>%s%</>,[Arma] Carregador +<Green_12>%s%</>
+EquipmentText/TalentDesc2103,[Weapon] Magazine +<Green_12>%s%</>,Carregador de [Arma] +<Green_12>%s%</>
 EquipmentText/TalentDesc3003,[Weapon] Magazine +<Green_12>%s%</>,[Arma] Carregador +<Green_12>%s%</>
 EquipmentText/arr_BaseAttributeBonusDisplay64,[Weapon] Magazine Capacity + <Green_14>%s%</>,[Arma] Capacidade do Carregador + <Green_14>%s%</>
 EquipmentText/ModuleTips2010,Kill enemy with [Weapon] Magazine below 30% to restore <Green_14>75%</> magazine.,Abater inimigo com o Carregador de [Arma] abaixo de 30% restaura <Green_14>75%</> do carregador.
@@ -565,6 +570,7 @@ EquipmentText/arr_BaseAttributeBonusDisplay22,Weapon Crit Chance+<Green_14>%s%</
 EquipmentText/ContractDesc103,"[Weapon] Crit Chance +<Green_14>10%</>
 [Throw] Crit Chance +<Green_14>10%</>","[Arma] Chance Crítica +<Green_14>10%</>
 [Arremesso] Chance Crítica +<Green_14>10%</>"
+EquipmentText/ModuleTips2171,"For each level of [Weapon] Tech, Weapon Base Damage +<Green_14>2.5%</> additional.","Para cada nível de Tecnologia de [Arma], Dano Base da Arma +<Green_14>2.5%</> adicional."
 EquipmentText/TalentDesc2004,[Weapon] Pierce +<Green_12>%s</>,[Arma] Perfuração +<Green_12>%s</>
 EquipmentText/arr_BaseAttributeBonusDisplay65,[Weapon] Penetration + <Green_14>%s</>,[Arma] Perfuração + <Green_14>%s</>
 EquipmentText/TalentDesc3211,"Hitting the same target with [Weapon] <Green_12>3</> times in a row locks onto it, then calls a precision railgun strike dealing <Green_12>2000</><White_12>(Scales with Combat Level up to 11800)</> [Tactical Skill] damage. Cooldown: <Green_12>5</>s.","Acertar o mesmo alvo com [Arma] <Green_12>3</> vezes seguidas trava a mira nele e chama um ataque preciso de canhão elétrico, causando <Green_12>2000</><White_12>(Escala com o Nível de Combate até 11800)</> de dano de [Habilidade Tática]. Recarga: <Green_12>5</>s."
@@ -703,11 +709,13 @@ EquipmentText/ModuleName2107,[Mod] Tactical Sim Chip,[Mód.] Chip de Simulação
 EquipmentText/ModuleName2093,[Mod] Pile Driver,[Mód.] Bate-Estacas
 EquipmentText/ModuleName2063,[Mod] Grenadier Arm,[Mód.] Braço Granadeiro
 EquipmentText/ModuleName2119,[Mod] Executioner,[Mód.] Executor
+EquipmentText/ModuleName2173,[Mod] Boundless,[Mod] Sem Limites
 EquipmentText/ModuleName2138,[Mod] Fearless Charge,[Mód.] Carga Destemida
 EquipmentText/ModuleName2140,[Mod] Starblade Hunter,[Mód.] Caçador da Lâmina Estelar
 EquipmentText/ModuleName2168,[Mod] Stellar Orb,[Mód.] Orbe Estelar
 EquipmentText/ModuleName2088,[Mod] Stellar Courier Beacon,[Mód.] Sinalizador do Correio Estelar
 EquipmentText/ModuleName2034,[Mod] Starfall,[Mód.] Queda Estelar
+EquipmentText/ModuleName2172,[Mod] Moonblossom,[Mod] Flor-da-Lua
 EquipmentText/ModuleName2048,[Mod] Minigun Drone,[Mód.] Drone de Minigun
 EquipmentText/ModuleName2052,[Mod] AI Pact,[Mód.] Pacto IA
 EquipmentText/ModuleName2166,[Mod] Swarm Support Vest,[Mód.] Colete de Suporte de Enxame
@@ -722,6 +730,7 @@ EquipmentText/ModuleName2126,[Mod] Turbocharger Bracelet,[Mód.] Bracelete Turbo
 EquipmentText/ModuleName2099,[Mod] Chaos Impact,[Mód.] Impacto do Caos
 EquipmentText/ModuleName2147,[Mod] Infiltration Goggles,[Mód.] Óculos de Infiltração
 EquipmentText/ModuleName2028,[Mod] Infiltrator's Sprint Boots,[Mód.] Botas de Sprint do Infiltrador
+EquipmentText/ModuleName2175,[Mod] Whirlwind Blade,[Mod] Lâmina Ciclone
 EquipmentText/ModuleName2050,[Mod] Laser Drone,[Mód.] Drone Laser
 EquipmentText/ModuleName2025,[Mod] Flame Path,[Mód.] Trilha de Chamas
 EquipmentText/ModuleName2118,[Mod] Vulcan's Heart,[Mód.] Coração de Vulcano
@@ -779,6 +788,7 @@ EquipmentText/ModuleName2109,[Mod] Hive Support Belt,[Mód.] Cinto de Suporte da
 EquipmentText/ModuleName2084,[Mod] Blood Offering,[Mód.] Oferenda de Sangue
 EquipmentText/ModuleName2144,[Mod] Street Brawler,[Mód.] Brigão de Rua
 EquipmentText/ModuleName2163,[Mod] Fission Chip,[Mód.] Chip de Fissão
+EquipmentText/ModuleName2170,[Mod] Riftcleave,[Mod] Fenda-Corte
 EquipmentText/ModuleName2137,[Mod] Hypercompute Goggles,[Mód.] Óculos de Hipercomputação
 EquipmentText/ModuleName2104,[Mod] Overload Gauntlets,[Mód.] Manoplas de Sobrecarga
 EquipmentText/ModuleName2039,[Mod] Overload Plating,[Mód.] Blindagem de Sobrecarga
@@ -787,6 +797,7 @@ EquipmentText/ModuleName2136,[Mod] Overheat Chain Bracelet,[Mód.] Bracelete de 
 EquipmentText/ModuleName2132,[Mod] Close-Quarters Combat Suit,[Mód.] Traje de Combate Corpo a Corpo
 EquipmentText/ModuleName2133,[Mod] Long-Range Combat Suit,[Mód.] Traje de Combate de Longo Alcance
 EquipmentText/ModuleName2005,[Mod] Burst Rounds,[Mód.] Munição de Rajada
+EquipmentText/ModuleName2174,[Mod] Shadowchase,[Mod] Caça-Sombria
 EquipmentText/ModuleName2101,[Mod] Stalker Helm,[Mód.] Elmo do Espreitador
 EquipmentText/ModuleName2021,[Mod] Stalker Visor,[Mód.] Visor do Espreitador
 EquipmentText/ModuleName2020,[Mod] Hunt Beacon,[Mód.] Sinalizador de Caça
@@ -796,6 +807,7 @@ EquipmentText/ModuleName2153,[Mod] Rapid-Fire Calibrator,[Mód.] Calibrador de T
 EquipmentText/ModuleName2143,[Mod] Rebirth Insurer,[Mód.] Segurador do Renascimento
 EquipmentText/ModuleName2087,[Mod] Bastion Alloy Chestplate,[Mód.] Peitoral de Liga Bastião
 EquipmentText/ModuleName2125,[Mod] Iron Judgment Bracelet,[Mód.] Bracelete do Julgamento de Ferro
+EquipmentText/ModuleName2171,[Mod] Ironclad,[Mod] Couraça de Ferro
 EquipmentText/ModuleName2007,[Mod] Chain,[Mód.] Chain
 EquipmentText/ModuleName2081,[Mod] Koi-Tek Visor,[Mód.] Visor Koi-Tek
 EquipmentText/ModuleName2029,[Mod] Riot-Strike Heavy Boots,[Mód.] Botas Pesadas de Choque
@@ -910,6 +922,7 @@ EquipmentText/Attribute_Dash_Name,Dash,Avanço
 EquipmentText/Attribute_Dash_Info3,Dash Damage,Dano de Dash
 EquipmentText/Attribute_Dash_Info2,Dash CD Reduction,Redução de Recarga de Dash
 EquipmentText/Attribute_Dash_Info4,Dash Charges,Cargas de Dash
+EquipmentText/ModuleTips2173,"After a Dash, the next melee attack triggers [Chase] Sweep.","Após um Avanço, o próximo ataque corpo a corpo ativa Varredura de [Perseguição]."
 EquipmentText/Attribute_Dash_Info9,Dash Projectiles,Projéteis de Dash
 EquipmentText/Attribute_Dash_Info1,Dash duration,Duração de Dash
 EquipmentText/Attribute_Dash_Info7,Dash Slots,Espaços de Dash
@@ -1025,11 +1038,13 @@ EquipmentText/arr_BaseAttributeBonusDisplay51,Epic Tech Spawn Chance + <Green_14
 EquipmentText/TalentDesc1405,Epic Tech can be upgraded to Legendary,Tecnologias Épicas podem ser aprimoradas para Lendárias
 EquipmentText/TalentDesc4405,Epic Tech can be upgraded to Legendary,Tecnologias Épicas podem ser aprimoradas para Lendárias
 EquipmentText/TalentDesc5405,Epic Tech can be upgraded to Legendary,Tecnologias Épicas podem ser aprimoradas para Lendárias
+EquipmentText/Weapon_Type_Blade,Alloy Blade,Lâmina de Liga
 EquipmentText/EquipmentTypeID201001,Alloy Helm,Alloy Helm
 EquipmentText/TalentName2308,Leech,Leech
 EquipmentText/TalentName3308,Leech,Leech
 EquipmentText/TalentName4306,Leech,Leech
 EquipmentText/TalentName5306,Leech,Leech
+EquipmentText/ModuleTips2175,"Hitting an enemy has a <Green_14>33%</> chance to summon a tornado, dealing <Green_14>1500</> [Chase] damage per second and knocking back small enemies. Internal cooldown: <Green_14>3</>s.","Acertar um inimigo tem <Green_14>33%</> de chance de invocar um tornado, causando <Green_14>1500</> de dano de [Perseguição] por segundo e empurrando inimigos pequenos. Recarga interna: <Green_14>3</>s."
 EquipmentText/TalentName2307,Bloodthirst,Bloodthirst
 EquipmentText/TalentName3307,Bloodthirst,Bloodthirst
 EquipmentText/TalentName4305,Bloodthirst,Bloodthirst
@@ -1107,6 +1122,7 @@ EquipmentText/TalentName4003,Full Pierce,Perfuração Total
 EquipmentText/EquipmentTypeID210502,Perfectionist,Perfeccionista
 EquipmentText/ModuleTips2110,"After a Perfect Dodge, automatically fire a homing fireball at the attacker, dealing <Green_14>{Param}</> [Psionic] damage.","Após uma Esquiva Perfeita, dispara automaticamente uma bola de fogo teleguiada no atacante, causando <Green_14>{Param}</> de dano [Psiônico]."
 EquipmentText/ModuleTips2144,"Perfectly dodging projectile attacks allows you to bat them back with a baseball bat, dealing <Green_14>{Param}</> [Psionic] DMG.","Esquivar perfeitamente de ataques de projéteis permite rebatê-los com um taco de beisebol, causando <Green_14>{Param}</> de Dano [Psiônico]."
+EquipmentText/ModuleTips2174,"On perfect dodge, unleash Fivefold Shadow Slash.","Ao fazer uma esquiva perfeita, desfere Corte Sombrio Quíntuplo."
 EquipmentText/EquipmentTypeID230505,Demolition Gloves,Luvas de Demolição
 EquipmentText/AffixeName2023,Cold Assault,Assalto Gélido
 EquipmentText/Attribute_Attack_Desc13,Bonus duration of status ailments inflicted on enemies,Bônus de duração das aflições de status infligidas aos inimigos
@@ -1162,9 +1178,6 @@ EquipmentText/AffixeName33,Projectile,Projétil
 EquipmentText/AffixeName24,Lethal,Letal
 EquipmentText/Attribute_Weapon_Info9,Range,Alcance
 EquipmentText/Attribute_Weapon_Info2,Fire Rate,Cadência de Tiro
-EquipmentText/TalentDesc1201,Fire Rate +<Green_12>%s%</>,Cadência de Tiro +<Green_12>%s%</>
-EquipmentText/TalentDesc2101,Fire Rate +<Green_12>%s%</>,Cadência de Tiro +<Green_12>%s%</>
-EquipmentText/TalentDesc5101,Fire Rate +<Green_12>%s%</>,Cadência de Tiro +<Green_12>%s%</>
 EquipmentText/TalentDesc5009,"Fire Rate +<Green_12>15%</>, Luck +<Green_12>15%</>","Cadência de Tiro +<Green_12>15%</>, Sorte +<Green_12>15%</>"
 EquipmentText/ModuleTips2158,"Convert <Green_14>70%</> of max Health into a shield equal to <Green_14>1.5</> times that amount. When current Health is above <Green_14>30%</>, Health recovery is instead converted into shield.","Converte <Green_14>70%</> da Vida máxima em um escudo igual a <Green_14>1.5</> vez esse valor. Quando a Vida atual está acima de <Green_14>30%</>, a recuperação de Vida é convertida em escudo."
 EquipmentText/EquipmentTypeID240504,Spike Assault Boots,Botas de Assalto Espinhoso
@@ -1220,8 +1233,6 @@ EquipmentText/TalentDesc5005,"Bow hits have <Green_12>15%</> chance to 【Mark�
 EquipmentText/ModuleTips2139,"Bow's multi-shot upgrades to Divine Punishment Spear, dealing [Weapon] damage every <Green_14>0.2</>s for <Green_14>2</>s.","O multitiro do Arco evolui para Lança da Punição Divina, causando dano de [Arma] a cada <Green_14>0.2</>s por <Green_14>2</>s."
 EquipmentText/TalentName5005,Weak Point,Ponto Fraco
 EquipmentText/Attribute_Weapon_Info4,Magazine,Carregador
-EquipmentText/TalentDesc1208,Magazine +<Green_12>%s%</>,Carregador +<Green_12>%s%</>
-EquipmentText/TalentDesc2103,Magazine +<Green_12>%s%</>,Carregador +<Green_12>%s%</>
 EquipmentText/TalentDesc2010,Magazine -<red_12>50%</>; First shot after reload +<Green_12>60%</>[Weapon] DMG,Carregador -<red_12>50%</>; primeiro disparo após recarregar causa +<Green_12>60%</> de Dano de [Arma]
 EquipmentText/ModuleTips2037,"Magazine capacity fixed at <red_14>1</>. After reload, [Weapon] Reload Speed +<Green_14>25%</>, [Psionic] Damage +<Green_14>30%</> for <Green_14>3</>s.","Capacidade do carregador fixa em <red_14>1</>. Após recarregar, Velocidade de Recarga de [Arma] +<Green_14>25%</>, Dano [Psiônico] +<Green_14>30%</> por <Green_14>3</>s."
 EquipmentText/EquipmentTypeID220506,Crater Theory,Teoria da Cratera
@@ -1318,15 +1329,15 @@ EquipmentText/Armor_Type_Grenade,Grenade,Granada
 EquipmentText/Attribute_Throw_Info8,Grenade DMG,Granada Dano
 EquipmentText/ModuleTips2124,"For each enemy hit by a Grenade, gain <Green_14>2%</> Damage Reduction for <Green_14>5</> seconds. Stacks up to <Green_14>15</> times.","Para cada inimigo atingido por uma Granada, ganha <Green_14>2%</> de Redução de Dano por <Green_14>5</> segundos. Acumula até <Green_14>15</> vezes."
 EquipmentText/EquipmentTypeID120501,Pile Driver,Bate-Estacas
-EquipmentText/TalentName1001,Magazine+,Magazine+
-EquipmentText/TalentName1005,Magazine+,Magazine+
-EquipmentText/TalentName1107,Magazine+,Magazine+
-EquipmentText/TalentName1108,Magazine+,Magazine+
-EquipmentText/TalentName1208,Magazine+,Magazine+
-EquipmentText/TalentName2005,Magazine+,Magazine+
-EquipmentText/TalentName2103,Magazine+,Magazine+
-EquipmentText/TalentName3003,Magazine+,Magazine+
-EquipmentText/TalentName5108,Magazine+,Magazine+
+EquipmentText/TalentName1001,Magazine+,Carregador+
+EquipmentText/TalentName1005,Magazine+,Carregador+
+EquipmentText/TalentName1107,Magazine+,Carregador+
+EquipmentText/TalentName1108,Magazine+,Carregador+
+EquipmentText/TalentName1208,Magazine+,Carregador+
+EquipmentText/TalentName2005,Magazine+,Carregador+
+EquipmentText/TalentName2103,Magazine+,Carregador+
+EquipmentText/TalentName3003,Magazine+,Carregador+
+EquipmentText/TalentName5108,Magazine+,Carregador+
 EquipmentText/AffixeName64,Expanded,Expanded
 EquipmentText/Attribute_Weapon_Info10,Spread,Dispersão
 EquipmentText/AffixeName13,Skill,Skill
@@ -1405,6 +1416,7 @@ EquipmentText/Attribute_Tech_Info8,New Tech Chance,Chance de Nova Tecnologia
 EquipmentText/ContractName113,Wanderer's Contract,Contrato do Errante
 EquipmentText/AffixeName2059,Rotary Return,Rotary Return
 EquipmentText/EquipmentTypeID100020,Rotary Judgment Handcannon,Rotary Judgment Handcannon
+EquipmentText/EquipmentTypeID180503,Boundless,Sem Limites
 EquipmentText/EquipmentTypeID280505,Fearless Charge,Carga Destemida
 EquipmentText/ContractName114,Valiant Contract,Contrato Valente
 EquipmentText/EquipmentTypeID250507,Starblade Hunter,Caçador da Lâmina Estelar
@@ -1443,6 +1455,7 @@ EquipmentText/AffixeName42,Warp,Warp
 EquipmentText/ModuleTips2102,"Max Health +<Green_14>30</>.
 When Health is below 70%, All Damage +<Green_14>30%</>.","Máx. Vida +<Green_14>30</>.
 Quando Vida is below 70%, Todo Dano +<Green_14>30%</>."
+EquipmentText/EquipmentTypeID180502,Moonblossom,Flor-da-Lua
 EquipmentText/TalentDesc4307,<Green_12>33%</> chance to resist status ailments,<Green_12>33%</> de chance de resistir a aflições de status
 EquipmentText/TalentDesc5307,<Green_12>33%</> chance to resist status ailments,<Green_12>33%</> de chance de resistir a aflições de status
 EquipmentText/ModuleTips2148,"When using [Dash] while shielded, [Dash] Crit Chance +<Green_14>30%</>.","Ao usar [Avanço] com escudo ativo, Chance Crítica de [Avanço] +<Green_14>30%</>."
@@ -1559,6 +1572,7 @@ EquipmentText/TalentName2304,Debuff+,Debuff+
 EquipmentText/TalentName3304,Debuff+,Debuff+
 EquipmentText/TalentName5003,Debuff+,Debuff+
 EquipmentText/AffixeName58,Aerial,Aerial
+EquipmentText/EquipmentTypeID180505,Whirlwind Blade,Lâmina Ciclone
 EquipmentText/EquipmentTypeID240002,Stealth Boots,Stealth Boots
 EquipmentText/ModuleTips2122,"When a barrier or shield is activated, triggers an electric ring every <Green_14>10</>s that deals <Green_14>{Param}</>damage on both passes.","Quando uma barreira ou escudo é ativado, aciona um anel elétrico a cada <Green_14>10</>s que causa <Green_14>{Param}</> de dano nas duas passagens."
 EquipmentText/TalentName5109,Firepower Mod,Firepower Mod
@@ -1663,6 +1677,7 @@ EquipmentText/EquipmentTypeID170503,Starbreaker,Quebra-Estrelas
 EquipmentText/AffixeName2056,Shatter Blast,Shatter Blast
 EquipmentText/AffixeName17,Crush,Crush
 EquipmentText/AffixeName2078,Magnetic,Magnético
+EquipmentText/EquipmentTypeID180000,Magnetron Quickblade,Lâmina Rápida Magnetron
 EquipmentText/AffixeName2051,Magnetic Machine,Magnetic Machine
 EquipmentText/EquipmentTypeID220000,Magnetic Belt,Magnetic Belt
 EquipmentText/TalentName3311,Stone Stance,Stone Stance
@@ -1753,6 +1768,7 @@ EquipmentText/AffixeName11,Assault,Assault
 EquipmentText/EquipmentTypeID270500,Synapse Chip,Synapse Chip
 EquipmentText/EquipmentTypeID220502,Thrust Field Belt,Cinto de Campo Propulsor
 EquipmentText/TalentDesc3311,"While standing still, Defense +<Green_12>25</>, Health Regen +<Green_12>3</>. Moving removes this buff.","Enquanto standing still, Defense +<Green_12>25</>, Vida Regen +<Green_12>3</>. Moving removes this buff."
+EquipmentText/EquipmentTypeID180001,Plasma Blade,Lâmina de Plasma
 EquipmentText/TalentName5010,Arrow Rain,Arrow Rain
 EquipmentText/TalentName1006,Precision,Precision
 EquipmentText/TalentName2007,Precision,Precision
@@ -1786,6 +1802,7 @@ EquipmentText/EquipmentTypeID160502,Absolute Zero,Zero Absoluto
 EquipmentText/ContractName105,Dominion Pact,Dominion Pacto
 EquipmentText/AffixeName39,Sustain,Sustain
 EquipmentText/AffixeName38,Network,Network
+EquipmentText/EquipmentTypeID180002,Breaker Blade,Lâmina Rompedora
 EquipmentText/AffixeName35,Beam,Beam
 EquipmentText/AffixeName26,Surge,Surge
 EquipmentText/TalentName2211,Energy Barrier,Energy Barrier
@@ -1830,6 +1847,8 @@ When hit by ranged, <Green_14>33%</> chance to reflect, dealing <Green_14>300</>
 Ao ser atingido à distância, <Green_14>33%</> de chance de refletir, causando <Green_14>300</> de Dano Psiônico"
 EquipmentText/EquipmentTypeID160000,Arbiter Sniper,Arbiter Sniper
 EquipmentText/EquipmentTypeID270511,Fission Chip,Chip de Fissão
+EquipmentText/EquipmentTypeID180500,Riftcleave,Fenda-Corte
+EquipmentText/ModuleTips2170,Riftcleave trigger requirement reduced from every <Green_14>3</> hits to every <Green_14>2</> hits. Riftcleave damage +<Green_14>60%</>.,O requisito para ativar Fenda-Corte passa de a cada <Green_14>3</> acertos para a cada <Green_14>2</> acertos. Dano de Fenda-Corte +<Green_14>60%</>.
 EquipmentText/TalentName2205,Reload Amp,Amplificação de Recarga
 EquipmentText/TalentName4205,Reload Amp,Amplificação de Recarga
 EquipmentText/arr_BaseAttributeBonusDisplay66,Equipment Drop Rarity +<Green_14>%s%</>,Raridade de Obtenção de Equipamento +<Green_14>%s%</>
@@ -1941,6 +1960,7 @@ EquipmentText/TalentName4206,Quick Load,Quick Load
 EquipmentText/EquipmentTypeID260510,Overheat Chain Bracelet,Bracelete de Corrente Superaquecida
 EquipmentText/AffixeName27,Overload,Overload
 EquipmentText/EquipmentTypeID211504,Close-Quarters Combat Suit,Traje de Combate Corpo a Corpo
+EquipmentText/ModuleTips2172,Melee attacks hitting enemies have a <Green_14>33%</> chance to fire <Green_14>1</> additional sword wave.,Ataques corpo a corpo que acertam inimigos têm <Green_14>33%</> de chance de disparar <Green_14>1</> onda de espada adicional.
 EquipmentText/TalentName2009,CQC Expert,CQC Expert
 EquipmentText/EquipmentTypeID210503,Long-Range Combat Suit,Traje de Combate de Longo Alcance
 EquipmentText/TalentName1204,Long Shot,Long Shot
@@ -1974,6 +1994,7 @@ EquipmentText/Attribute_Chase_Info3,Chase Area,Perseguição Área
 EquipmentText/TalentName1202,Chase Area,Área de Perseguição
 EquipmentText/TalentName2102,Chase Area,Área de Perseguição
 EquipmentText/TalentName5102,Chase Area,Área de Perseguição
+EquipmentText/EquipmentTypeID180504,Shadowchase,Caça-Sombria
 EquipmentText/EquipmentTypeID201502,Stalker Helm,Elmo do Espreitador
 EquipmentText/EquipmentTypeID200501,Stalker Visor,Visor do Espreitador
 EquipmentText/EquipmentTypeID170500,Hunt Beacon,Sinalizador de Caça
@@ -2014,6 +2035,7 @@ EquipmentText/TalentName2309,Bastion,Bastion
 EquipmentText/TalentName3309,Bastion,Bastion
 EquipmentText/EquipmentTypeID211501,Bastion Alloy Chestplate,Peitoral de Liga Bastião
 EquipmentText/EquipmentTypeID260507,Iron Judgment Bracelet,Bracelete do Julgamento de Ferro
+EquipmentText/EquipmentTypeID180501,Ironclad,Couraça de Ferro
 EquipmentText/EquipmentTypeID130010,Ironbone Plasma Rifle,Ironbone Plasma Rifle
 EquipmentText/AffixeName2007,Chain,Corrente
 EquipmentText/EquipmentTypeID250500,Koi-Tek Visor,Visor Koi-Tek
@@ -2357,6 +2379,7 @@ GeneralText/Mode_Endless_Tips25,Beta Version,Versão Beta
 GeneralText/UI_Map_Risk4_Monster_Desc6,Boss Ailment Resist +50%,Chefe: Resistência a Aflições +50%
 GeneralText/UI_Map_Risk5_Monster_Desc6,Boss Ailment Resist +75%,Chefe: Resistência a Aflições +75%
 GeneralText/UI_Map_Risk6_Monster_Desc6,Boss Ailment Resist +90%,Chefe: Resistência a Aflições +90%
+GeneralText/Endless_Reward05,Boss Drops Doubled,Drops de Chefe em Dobro
 GeneralText/UI_Map_Risk4_Monster_Desc7,Boss HP +100%,Vida do Chefe +100%
 GeneralText/UI_Map_Risk5_Monster_Desc7,Boss HP +300%,Vida do Chefe +300%
 GeneralText/UI_Map_Risk6_Monster_Desc7,Boss HP +700%,Vida do Chefe +700%
@@ -2411,6 +2434,7 @@ GeneralText/Endless_Type4_Desc,An R&D equipment truck broke down in an Infection
 GeneralText/Button_Previous,Previous,Anterior
 GeneralText/UI_Button_Next,Next,Próximo
 GeneralText/UI_Talent_Level,Next Level:,Próximo Nível:
+GeneralText/UI_Endless_Next,Next Trial,Próximo Teste
 GeneralText/Button_Next,Next,Próximo
 GeneralText/Quest_Desc95,Clear a battle at Risk Lv. 2 or higher without equipping any equipment,Conclua uma batalha no Nível de Risco 2 ou superior sem equipar nenhum equipamento
 GeneralText/Mode_Endless_Tips33,Talk to ,Fale com 
@@ -2547,6 +2571,7 @@ GeneralText/Quest_Reward14,Claire Talent Point x1,Ponto de Talento de Claire x1
 GeneralText/Quest_Reward15,Claire Talent Point x1,Ponto de Talento de Claire x1
 GeneralText/Quest_Reward16,Claire Talent Point x2,Ponto de Talento de Claire x2
 GeneralText/Achiev_Name2,Claire's Debut,Estreia de Claire
+GeneralText/Endless_Challenge06,Immune to Control,Imune a Controle
 GeneralText/Guide_HQ_JT_Title3,Entry Requirements,Requisitos
 GeneralText/Achiev_Name31,Fully Armed,Armado até os Dentes
 GeneralText/UI_Set_Graphics_Illum,Global Illumination Quality,Qualidade da Iluminação Global
@@ -2562,12 +2587,14 @@ GeneralText/Mode_Endless_Tips18,Close,Fechar
 GeneralText/UI_Set_Display_DLSS_Off,Off,Desativado
 GeneralText/Mode_Endless_Tips38,Replay,Jogar Novamente
 GeneralText/Guide_Sona_Close,Goodbye,Até mais
+GeneralText/Endless_Challenge02,Ice Mutation,Mutação de Gelo
 GeneralText/Endless_Type9_Name,Frostfire Judgment,Julgamento Gélido
 GeneralText/UI_Main_OperateTips_Dash,Dash,Avanço
 GeneralText/Quest_Name76,Dash Mastery,Maestria em Avanço
 GeneralText/Quest_Name2,Blitz,Blitz
 GeneralText/UI_Set_Controller_Acceleration,Reticle Move Acceleration,Aceleração do Movimento da Mira
 GeneralText/UI_Set_Settings_Crosshair,Crosshair Customization,Personalização da Mira
+GeneralText/UI_HQ_Char_LingS_Name,Ling,Ling
 GeneralText/UI_HQ_Start,Mission Start,Iniciar Missão
 GeneralText/Guide_HQ_GM_Title2,Deployment Missions,Missões de Operação
 GeneralText/Guide_HQ_ZY_Title1,Deployment Guide,Guia de Operação
@@ -2577,6 +2604,7 @@ GeneralText/Guide_HQ_GM_Name,Deploy,Operação
 GeneralText/UI_Button_StartGame,Deploy,Iniciar Operação
 GeneralText/Guide_HQ_GM_Desc2,"Before deploying, be sure to check your equipment and inventory. Newly obtained gear can be equipped and swapped at any time during combat.","Antes da operação, confira equipamentos e inventário. Equipamentos recém-obtidos podem ser equipados ou trocados durante o combate."
 GeneralText/Guide_ZD_SJ_Desc1,Killing the Corrupted recycles Soul Crystals to level up. Each level up calls in an Airdrop Pod; picking it up allows you to choose one Divine Tech as a reward.,"Elimine Corrompidos para reciclar Cristais de Alma e subir de nível. Ao subir, uma Cápsula de Suprimentos aparece; colete-a para escolher uma Tecnologia Divina."
+GeneralText/Endless_Challenge_Info11,"Killing enemies has a chance to spawn a ""Reaper"" that slowly chases you.","Abater inimigos tem chance de invocar um ""Ceifador"" que persegue você lentamente."
 GeneralText/UI_Main_Quest_Boss,Defeat the Boss,Derrote o Chefe
 GeneralText/UI_Result_Data_Name12,Boss Defeated:,Chefe Derrotado:
 GeneralText/Endless_Type5_Target,Defeat the Venomous Widow.,Derrote a Venomous Widow.
@@ -2607,6 +2635,7 @@ GeneralText/UI_OperateTips_SwitchWindow,Toggle Fullscreen/Windowed,Alternar Tela
 GeneralText/UI_Main_OperateTips_AutoF,Toggle Auto-Fire,Alternar Disparo Automático
 GeneralText/UI_OperateTips_QieHuan,Navigate,Navegar
 GeneralText/Achiev_Name29,First Transaction,Primeira Transação
+GeneralText/Endless_Reward02,Basic Essence,Essência Básica
 GeneralText/Essence1_Name,Basic Essence,Essência Básica
 GeneralText/UI_Login_Developer,Developer,Desenvolvedor
 GeneralText/Monster_Normal_TiDao_Name,Razor Zombie,Zumbi Laminado
@@ -2719,6 +2748,7 @@ GeneralText/Endless_Type2_Target,Eliminate the required number of enemies within
 GeneralText/Quest_Desc96,Eliminate 100 enemies while below 20% HP,Elimine 100 inimigos com menos de 20% de Vida
 GeneralText/Guide_HQ_SD_Desc2,"When a battle in Purge Zone lasts longer than 7 minutes or you kill over 1000 Corrupted, the base Store will stock a new batch of merchandise.","Após 7 minutos na Zona de Expurgo ou 1000 Corrompidos derrotados, a Loja da base recebe um novo lote de mercadorias."
 GeneralText/Guide_HQ_JT_Desc3,"In the Void Spire, the Divine System assigns operation missions to the most elite Specialists. As the layer increases, the difficulty rises. Here, Specialists can challenge their own limits.","No Pináculo do Vazio, o Sistema Divino envia os melhores Especialistas em missões. A dificuldade aumenta a cada camada, levando todos ao limite."
+GeneralText/Endless_Challenge14,Floor Fire,Chamas no Chão
 GeneralText/UI_Set_Display_DLSS_Balanced,Balanced,Equilibrado
 GeneralText/Mode_Endless_Tips52,Hold until source perishes,Resista até a fonte perecer
 GeneralText/UI_Set_Display_VSnyc,V-Sync,V-Sync
@@ -2772,6 +2802,7 @@ GeneralText/UI_HQ_Warehouse_Tips1,Store,Loja
 GeneralText/Guide_HQ_CK_Title2,Storing and Retrieving Items,Guardar e Retirar
 GeneralText/BackupDatePrompt,Save Time: {0},Horário do Salvamento: {0}
 GeneralText/Backup_Title,Save Restore,Restaurar Salvamento
+GeneralText/Endless_Challenge12,Spore Pod Explosion,Explosão de Vagem de Esporos
 GeneralText/Mode_Endless_Tips44,Protect 2 Energy Forges,Proteja 2 Forjas de Energia
 GeneralText/Quest_Name91,Secure Feeling,Sensação de Segurança
 GeneralText/UI_BeiBao_Module_Install,Install,Instalar
@@ -2789,10 +2820,11 @@ GeneralText/Quest_Name4,Targeted Elimination (SMG),Eliminação Direcionada (SMG
 GeneralText/Quest_Name28,Targeted Elimination (SR),Eliminação Direcionada (Rifle de Precisão)
 GeneralText/AgeRestrict,Real-name verification shows age under 18. Cannot start the game.,A verificação de nome real indica idade inferior a 18 anos. Não é possível iniciar o jogo.
 GeneralText/Mode_Endless_Tips15,Dialog,Diálogo
-GeneralText/Mode_Endless_Tips34,to choose your next action,para escolher sua próxima ação
+GeneralText/Mode_Endless_Tips34, to choose your next action, para escolher sua próxima ação
 GeneralText/Quest_Name49,Supply Hunter,Caçador de Suprimentos
 GeneralText/UI_Main_OperateTips_SheJi,Fire,Disparar
 GeneralText/UI_Result_Data_DMGSource1,Fire,Disparar
+GeneralText/Endless_Challenge09,Fire Rate & Move Speed Nerf,Nerf de Cadência e Velocidade
 GeneralText/Achiev_Desc40,Upgrade 5 characters to Lv. 40,Eleve 5 personagens ao Nv. 40
 GeneralText/Quest_Desc103,Upgrade 5 characters to Lv. 40,Eleve 5 personagens ao Nv. 40
 GeneralText/Guide_ZD_ZB_Desc2,"Hover the cursor over equipment in the Inventory and click <img id=""RightButton"" width=""24"" height=""24""></> to equip it.","Passe o cursor sobre um equipamento no Inventário e clique em <img id=""RightButton"" width=""24"" height=""24""></> para equipá-lo."
@@ -2871,6 +2903,7 @@ GeneralText/Tech_Enhance_Tips4,Upgrade success rate decreases when Tech Upgrade 
 GeneralText/Quest_Name41,Happy Hamster,Hamster Feliz
 GeneralText/UI_XiLian_Text7,Quick Place/Remove,Colocar/Remover Rápido
 GeneralText/Monster_Elite_GuaiLi_Name,Juggernaut Zombie,Zumbi Juggernaut
+GeneralText/Endless_Challenge_Info06,"Monsters are immune to control, Move Speed +x%","Monstros ficam imunes a controle, Velocidade de Movimento +x%"
 GeneralText/UI_Set_Graphics_Preset,Graphics Quality Preset,Predefinição de Qualidade Gráfica
 GeneralText/UI_Set_Keyboard_Reset,Reset,Redefinir
 GeneralText/Mode_Tower_HighestTip,Congratulations on completing the final challenge. Harder difficulties will be added in a future update. Stay tuned!,Parabéns por concluir o desafio final. Dificuldades maiores serão adicionadas em uma atualização futura. Fique de olho!
@@ -2891,6 +2924,7 @@ GeneralText/Guide_HQ_GM_Title4,Battlefield Information,Informações de Campo
 GeneralText/Mode_Endless_Tips30,Combat Supplies,Suprimentos de Combate
 GeneralText/Guide_ZD_Name,Combat,Combate
 GeneralText/UI_Set_Settings,Combat,Combate
+GeneralText/Endless_Challenge_Info14,"During combat, the ground near you periodically erupts with fire.","Durante o combate, o chão perto de você entra em erupção periodicamente."
 GeneralText/Loading_Tips1,Press [Q] to toggle between Auto-Fire and Manual-Fire modes.,Pressione [Q] para alternar entre os modos Disparo Automático e Disparo Manual.
 GeneralText/Loading_Tips4,"During battle, the radar map shows the direction of events.","Durante a batalha, o mapa de radar mostra a direção dos eventos."
 GeneralText/Guide_ZD_Title,Combat Guide,Guia de Combate
@@ -2952,6 +2986,7 @@ GeneralText/Quest_Reward22,Mors Talent Point x1,Ponto de Talento de Mors x1
 GeneralText/Quest_Reward23,Mors Talent Point x1,Ponto de Talento de Mors x1
 GeneralText/Quest_Reward24,Mors Talent Point x2,Ponto de Talento de Mors x2
 GeneralText/Achiev_Name3,Mors' Entrance,Entrada de Mors
+GeneralText/TooFrequentOperations,"Too many attempts, please try again later",Tentativas demais. Tente novamente mais tarde.
 GeneralText/UI_Set_Keyboard_Guide,Control Guide,Guia de Controles
 GeneralText/Guide_HQ_CK_Desc2,Spend a certain amount of Credits to unlock additional storage slots.,Use Créditos para liberar mais espaços no Armazém.
 GeneralText/UI_Map_RewardTips,Rewards,Recompensas
@@ -2963,6 +2998,9 @@ GeneralText/UI_QiYue_Text2,Place Pact,Colocar Pacto
 GeneralText/UI_HQ_Warehouse_Tips4,Take,Retirar
 GeneralText/UI_QiYue_Text3,Place Equipment,Colocar Equipamento
 GeneralText/PutInEquipmentForRefined,Place an Equipment in Reforge to replace an attribute,Coloque um Equipamento na Reforja para substituir um atributo
+GeneralText/UI_Button_Abandon,Abandon,Abandonar
+GeneralText/UI_Endless_AbandonQuest,Abandoning the mission will delete your current Endless Trial progress and return you to base. Confirm?,Abandonar a missão apagará seu progresso atual no Teste Infinito e levará você de volta à base. Confirmar?
+GeneralText/Endless_Challenge_Info13,Enemies hit have a chance to spawn a Rotating Laser.,Inimigos atingidos têm chance de gerar um Laser Giratório.
 GeneralText/UI_Map_Risk3_Monster_Desc1,Enemy Damage +125%,Dano dos Inimigos +125%
 GeneralText/UI_Map_Risk4_Monster_Desc1,Enemy Damage +250%,Dano dos Inimigos +250%
 GeneralText/UI_Map_Risk2_Monster_Desc1,Enemy Damage +45%,Dano dos Inimigos +45%
@@ -2989,8 +3027,12 @@ GeneralText/UI_HQ_SelectChar_Unlock,Coming soon.,Em breve.
 GeneralText/UI_Map_LockMap_Tips,To Be Announced.,A ser anunciado.
 GeneralText/UI_Set_Language_Text,Text Language,Idioma do Texto
 GeneralText/Mode_Endless_Tips10,New Setup,Nova Configuração
+GeneralText/Endless_Challenge13,Rotating Laser,Laser Giratório
 GeneralText/UI_Set_Display_FPS_Nolimit,Unlimited,Ilimitado
 GeneralText/Quest_Name33,Silent Hunter,Caçador Silencioso
+GeneralText/UI_Endless_Start,Endless Trial,Teste Infinito
+GeneralText/UI_Endless_ContinueTip,Endless Trial in progress,Teste Infinito em andamento
+GeneralText/UI_Endless_Quit,Exiting the Endless Trial will only save progress from the last boss defeated and return you to the main menu. Continue?,Sair do Teste Infinito salvará apenas o progresso até o último chefe derrotado e levará você de volta ao menu principal. Continuar?
 GeneralText/UI_Archive_NoSelectEmptyBD,Cannot select empty setup,Não é possível selecionar uma configuração vazia
 GeneralText/Quest_Name104,Infinite Cycle,Ciclo Infinito
 GeneralText/UI_Map_Base_Desc2,"Once the greatest shelter, now consumed by the virus. Quarantine zones have become monster dens. The fortress has quietly changed hands.","Antes o maior abrigo, agora consumido pelo vírus. As zonas de quarentena se tornaram covis de monstros. A fortaleza mudou de mãos em silêncio."
@@ -3003,8 +3045,14 @@ GeneralText/UnlockStorageGoldEnough,Are you sure you want to spend <yellow_16>{G
 GeneralText/UI_BDSave_Overwrite,Overwrite this save?,Sobrescrever este salvamento?
 GeneralText/AllSellPrompt,Are you sure you want to sell all {0} equipment in your Inventory?,Tem certeza de que deseja vender todos os {0} equipamentos do Inventário?
 GeneralText/UI_Talent_Reset,Are you sure you want to reset your Talents?,Tem certeza de que deseja redefinir seus Talentos?
+GeneralText/UI_Endless_Continue,"Continue with the Endless Trial?
+<Endless_Abandon>(Abandoning will delete your Endless Trial save)</>","Continuar o Teste Infinito?
+<Endless_Abandon>(Abandonar apagará seu salvamento do Teste Infinito)</>"
 GeneralText/UI_SettingConfirm_MainMenu,Return to main menu?,Voltar ao menu principal?
 GeneralText/UI_SettingConfirm_ReturnLobby,Return to Headquarters?,Voltar ao QG?
+GeneralText/UI_Endless_Abandon,"Return to Headquarters?
+<Endless_Abandon>(Returning will delete your current Endless Trial progress)</>","Voltar para a Sede?
+<Endless_Abandon>(Ao voltar, seu progresso atual no Teste Infinito será apagado)</>"
 GeneralText/UI_SettingConfirm_Exit,Quit Game?,Sair do jogo?
 GeneralText/UI_Setting_KeyResetConfirm,Reset to default key bindings?,Redefinir atalhos de teclado para o padrão?
 GeneralText/UI_Set_Display,Display,Tela
@@ -3022,6 +3070,7 @@ GeneralText/UI_LvUpBD_Alter_Desc2,Switch to a new Divine Tech faction.,Troca par
 GeneralText/UI_Button_Update,Update,Atualizar
 GeneralText/UI_Set_Display_DLSS_Performance,Ultra Performance,Ultra Desempenho
 GeneralText/UI_Set_Display_DLSS_Quality,Ultra Quality,Ultra Qualidade
+GeneralText/Endless_Challenge_Info10,"Max Health -50%, Revival Disabled after Death","Vida máxima -50%, Ressurreição desativada após a morte"
 GeneralText/UI_Result_LvUp_HP,Max HP,Vida Máxima
 GeneralText/UI_Result_Data_Name13,Final Evaluation:,Avaliação Final:
 GeneralText/Mode_Endless_Tips28,Record:,Recorde:
@@ -3052,6 +3101,7 @@ GeneralText/BlackStore1003,Unmarked Shotgun,Espingarda Sem Identificação
 GeneralText/UI_Archive_NoBD,You did not obtain any Divine Tech this run,Você não obteve nenhuma Tecnologia Divina nesta partida
 GeneralText/GameTimeIsExhausted,Today's playtime has been exhausted,O tempo de jogo de hoje acabou.
 GeneralText/Monster_Normal_XiaoShu_Name,Rotting Guard,Guarda Putrefato
+GeneralText/Endless_Challenge_Info12,"Killing monsters has a chance to spawn a Spore Pod that explodes after a short delay, dealing high area damage.","Abater monstros tem chance de gerar uma Vagem de Esporos que explode após um curto intervalo, causando alto dano em área."
 GeneralText/Endless_Type3_Name,Polar Beacon,Sinalizador Polar
 GeneralText/UI_Map_Snow_Desc,"Polar night and blizzards shroud the frozen fjord. The energy core, seized by the infected, has stopped working; extreme cold envelops this military outpost. The infected hunt in coordinated wolf packs through the snow curtain. Here, harsh environment and biological predation form a double death trap.","A noite polar e as nevascas encobrem o fiorde congelado. O núcleo de energia, tomado pelos infectados, parou de funcionar; o frio extremo envolve este posto militar. Os infectados caçam em matilhas coordenadas através da cortina de neve. Aqui, ambiente hostil e predação biológica formam uma dupla armadilha mortal."
 GeneralText/UI_Map_Snow_Desc2,"Frozen fjord under polar night, the virus controls the energy core. The infected hunt like wolves. Harsh climate and predation form a double death trap.",Fiorde congelado sob a noite polar; o vírus controla o núcleo de energia. Os infectados caçam como lobos. Clima hostil e predação formam uma dupla armadilha mortal.
@@ -3087,12 +3137,16 @@ GeneralText/UI_HQ_Store_Weapon,Weapon,Arma
 GeneralText/WeaponType,Weapon,Arma
 GeneralText/UI_BeiBao_Module_Tips5,Weapon/Grenade Module,Módulo de Arma/Granada
 GeneralText/Achiev_Name32,Weapon Master,Mestre das Armas
+GeneralText/Endless_Challenge_Info09,"Weapon Fire Rate -50%, Character Move Speed -50%","Cadência de Tiro da Arma -50%, Velocidade de Movimento do Personagem -50%"
 GeneralText/Quest_Name53,Weapon Collector I,Colecionador de Armas I
 GeneralText/Quest_Name54,Weapon Collector II,Colecionador de Armas II
 GeneralText/Quest_Name55,Weapon Collector III,Colecionador de Armas III
 GeneralText/UI_HQ_Char_Yeying_Desc,"Weapon: Submachine Gun    Armor: Light
 Philomel tears through the battlefield with a hail of bullets, elegantly dancing on the razor's edge of danger.","Arma: SMG    Armadura: Leve
 Philomel rasga o campo de batalha com uma chuva de balas, dançando elegantemente no fio da navalha."
+GeneralText/UI_HQ_Char_LingS_Desc,"Weapon: Alloy Blade    Armor: Light Armor
+Every strike of Ling is precise and deadly. Enemies step into reincarnation before they even realize death.","Arma: Lâmina de Liga    Armadura: Armadura Leve
+Cada golpe de Ling é preciso e letal. Os inimigos entram na reincarnação antes mesmo de perceberem a morte."
 GeneralText/UI_HQ_Char_Ling_Desc,"Weapon: Cam Bow    Armor: Light
 Luna's arrows never miss. She always picks the perfect moment to deliver a one-way ticket to the cycle of reincarnation for her enemies' souls.","Arma: Arco Composto    Armadura: Leve
 As flechas de Luna nunca erram. Ela sempre escolhe o momento perfeito para entregar às almas dos inimigos uma passagem só de ida para o ciclo da reencarnação."
@@ -3112,9 +3166,12 @@ GeneralText/UI_Map_Forest_Name,Death Swamp Infection Zone,Zona de Infecção do 
 GeneralText/Endless_Type5_Desc,"In the depths of the Death Swamp, the lair woven by the Venomous Widow has severely corrupted the local biosphere. Your task is to penetrate its nest and eliminate this source of contamination.","Nas profundezas do Pântano da Morte, o covil tecido pela Venomous Widow corrompeu gravemente a biosfera local. Sua tarefa é penetrar no ninho e eliminar esta fonte de contaminação."
 GeneralText/Endless_Type2_Name,Death Arena,Arena da Morte
 GeneralText/Monster_Elite_JiQiang_Name,Necro-Shooter,Necro-Atirador
+GeneralText/Endless_Challenge11,Reaper Pursuit,Perseguição do Ceifador
 GeneralText/UI_Result_Data_Name1,Enemies Eliminated:,Inimigos Eliminados:
 GeneralText/Guide_HQ_GJ_Desc4,"Each piece of equipment allows reforging one normal affix and one Legendary Module affix (for Legendary rarity and above). Already reforged affixes can be reforged again, provided you have enough Credits and Essence.","Cada peça de equipamento permite reforjar um afixo normal e um afixo de Módulo Lendário (para raridade Lendária ou superior). Afixos já reforjados podem ser reforjados novamente, desde que você tenha Créditos e Essência suficientes."
 GeneralText/Loading_Tips7,You may select Divine Tech from up to 3 factions per run. (Gunsmith Tech is exempt from this limit and can be chosen at any time.),Você pode selecionar Tecnologias Divinas de até 3 facções por partida. (Tecnologias de Gunsmith são isentas desse limite e podem ser escolhidas a qualquer momento.)
+GeneralText/Endless_Challenge_Info15,"Periodically, your vision range and auto-targeting range are greatly reduced.","Periodicamente, seu alcance de visão e de mira automática é bastante reduzido."
+GeneralText/Endless_Challenge03,Poison Mutation,Mutação de Veneno
 GeneralText/Endless_Type8_Name,Sandstorm Quelling,Supressão da Tempestade
 GeneralText/Achiev_Name9,Sandstorm Conqueror,Conquistador da Tempestade
 GeneralText/Monster_Boss_TuFu_Name,Sandstorm Lord,Sandstorm Lord
@@ -3135,6 +3192,7 @@ GeneralText/UI_Map_Forest_Desc2,"Humid marsh, thick with miasma. The virus resha
 GeneralText/Monster_Normal_PiaoFu_Name,Floating Bomber,Bombardeiro Flutuante
 GeneralText/Monster_Elite_Lazer_Name,Laser Zombie,Zumbi Laser
 GeneralText/Quest_Name97,Overwhelming Firepower,Poder de Fogo Avassalador
+GeneralText/Endless_Challenge01,Fire Mutation,Mutação de Fogo
 GeneralText/Quest_Name17,Rocket Barrage,Barragem de Foguetes
 GeneralText/UI_Main_Quest_ExpGet,Reclaim Souls,Recuperar Almas
 GeneralText/UI_Result_Data_Name5,Souls Reclaimed:,Almas Recuperadas:
@@ -3169,6 +3227,7 @@ GeneralText/Achiev_Name39,Fully Stocked,Estoque Completo
 GeneralText/Mode_Endless_Tips26,Developer's Note,Nota dos Desenvolvedores
 GeneralText/UI_Set_Graphics_Effect_Opacity,Effect Opacity,Opacidade dos Efeitos
 GeneralText/UI_Set_Graphics_Effect,Effect Quality,Qualidade dos Efeitos
+GeneralText/Endless_Challenge05,Frenzied Mutation,Mutação Frenética
 GeneralText/Monster_Elite_JuChi_Name7,Frenzied Ripper,Ripper Frenético
 GeneralText/Monster_Elite_PenHuo_Name5,Frenzied Sprayer,Sprayer Frenético
 GeneralText/Monster_Elite_JuDun_Name7,Frenzied Bulwark Zombie,Zumbi Baluarte Frenético
@@ -3205,6 +3264,7 @@ GeneralText/Achiev_Name30,Mythic Empowered,Fortalecimento Mítico
 GeneralText/Guide_HQ_GJ_Title12,Mythic Module,Módulo Mítico
 GeneralText/UI_QualityUp_Tips7,Mythic Module,Módulo Mítico
 GeneralText/Guide_ZQ_JQ_Name,Deadzone,Zona Morta
+GeneralText/Endless_Challenge10,Revival Disabled,Ressurreição Desativada
 GeneralText/UI_HQ_Talent_Type2,Tech,Tecnologia
 GeneralText/UI_Main_BeiBao_KJ,Tech,Tecnologia
 GeneralText/Guide_HQ_JT_Title8,Tech Upgrade,Aprimorar Tecnologia
@@ -3234,9 +3294,16 @@ GeneralText/UI_Result_Data_Name3,Level:,Nível:
 GeneralText/Quest_Name26,Precision Suppression,Supressão Precisa
 GeneralText/Guide_HQ_GJ_Title3,Essence and Modules,Essências e Módulos
 GeneralText/Quest_Name102,Elite Squad,Esquadrão de Elite
+GeneralText/Endless_Challenge_Info02,"Elites have higher chance for [Ice] Mutation, Health +50%","Elites têm maior chance de receber Mutação de [Gelo], Vida +50%"
+GeneralText/Endless_Challenge_Info03,"Elites have higher chance for [Poison] Mutation, Health +50%","Elites têm maior chance de receber Mutação de [Veneno], Vida +50%"
+GeneralText/Endless_Challenge_Info01,"Elites have higher chance for [Fire] Mutation, Health +50%","Elites têm maior chance de receber Mutação de [Fogo], Vida +50%"
+GeneralText/Endless_Challenge_Info05,"Elites have higher chance for [Frenzied] Mutation, Health +50%","Elites têm maior chance de receber Mutação [Frenética], Vida +50%"
+GeneralText/Endless_Challenge_Info04,"Elites have higher chance for [Swift] Mutation, Health +50%","Elites têm maior chance de receber Mutação [Veloz], Vida +50%"
+GeneralText/Endless_Challenge_Info07,Elite Spawn Count Doubled,Quantidade de Elites dobrada
 GeneralText/UI_Main_Quest_ElliteKill,Reclaim Elite Souls,Recuperar Almas de Elites
 GeneralText/Achiev_Name18,Elite Hunter,Caçador de Elites
 GeneralText/Quest_Name81,Elite Hunter,Caçador de Elites
+GeneralText/Endless_Challenge07,Elite Spawns Doubled,Dobro de Elites
 GeneralText/Backup_Desc,"Backup saves are automatically created when a battle ends. If your game save is corrupted, you can select a backup from the list below and restore it.","Backups de salvamento são criados automaticamente ao fim de uma batalha. Se o salvamento do jogo for corrompido, você pode selecionar um backup da lista abaixo e restaurá-lo."
 GeneralText/Quest_Desc81,Defeat 200 Elite enemies in total,Derrote 200 inimigos de Elite no total
 GeneralText/Quest_Desc82,Defeat 20 Bosses in total,Derrote 20 Bosses no total
@@ -3266,6 +3333,7 @@ GeneralText/Quest_Desc54,Obtain 50 weapons of Rare rarity or higher in total.,Ob
 GeneralText/Quest_Desc104,Revive 100 times in total,Reviva 100 vezes no total
 GeneralText/Quest_Desc70,Reforge equipment attributes over 100 times in total,Reforje atributos de equipamento mais de 100 vezes no total
 GeneralText/Achiev_Name16,Desperate Survival,Sobrevivência Desesperada
+GeneralText/UI_Button_Continue2,Continue,Continuar
 GeneralText/UI_Pause_Continue,Resume,Continuar
 GeneralText/Achiev_Name40,Gathering of Heroes,Reunião de Heróis
 GeneralText/UI_Result_Data_Name14,Rank,Patente
@@ -3284,9 +3352,11 @@ GeneralText/BackpackIsFullBuyEquipmentFaild,Inventory is full. Purchase failed!,
 GeneralText/UI_Set_Audio_BGM,BGM,Música
 GeneralText/Mode_Endless_Tips45,Energy Forge α,Forja de Energia α
 GeneralText/Mode_Endless_Tips46,Energy Forge β,Forja de Energia β
+GeneralText/Endless_Reward01,Corrupted Crystal,Cristal Corrompido
 GeneralText/UI_Map_Hunt_Ticket,Corrupted Crystal,Cristal Corrompido
 GeneralText/UI_Level_Select_CorrosionCrystal,Insufficient Corrupted Crystal ({CurrencyNeededCount} required),Cristal Corrompido insuficiente ({CurrencyNeededCount} necessário)
 GeneralText/Currency2_Name,Corrupted Cluster,Aglomerado Corrompido
+GeneralText/Endless_Reward04,Corrupted Cluster,Aglomerado Corrompido
 GeneralText/CorrosionFragmentNotEnough,Insufficient Corrupted Clusters,Aglomerados Corrompidos insuficientes
 GeneralText/Endless_Type6_Name,Corruption Eradication,Erradicação da Corrupção
 GeneralText/Monster_Elite_ShaChong_Name,Corrupted Sandworm,Verme-da-Areia Corrompido
@@ -3307,6 +3377,8 @@ GeneralText/UI_Set_Settings_SkipCG,Auto-Skip Boss Intro,Pular Introdução do Ch
 GeneralText/UI_Set_Settings_Auto7,Auto-Cast Tactical Skill,Conjuração Automática de Habilidade Tática
 GeneralText/UI_Set_Graphics_Custom,Custom,Personalizado
 GeneralText/UI_Set_Keyboard_Custom,Customize,Personalizar
+GeneralText/Endless_Challenge_Info08,"Range -80%, Cooldown Reduction -80%","Alcance -80%, Redução de Recarga -80%"
+GeneralText/Endless_Challenge08,Range & CD Reduction Nerf,Nerf de Alcance e Redução de Recarga
 GeneralText/Achiev_Desc33,Obtain 100 pieces of armor,Obtenha 100 peças de armadura
 GeneralText/Achiev_Desc32,Obtain 20 weapons,Obtenha 20 armas
 GeneralText/UI_Result_LvUp_Reward,Rewards Obtained:,Recompensas Obtidas:
@@ -3344,6 +3416,7 @@ GeneralText/MoneyNotEnoughUpEquipFaild,Insufficient materials for equipment forg
 GeneralText/UI_Module_Forge_None,Forging equipment requires a Mythic Module from the same equipment slot. Obtain such modules by dismantling Mythic equipment of the corresponding slot.,Forjar equipamentos requer um Módulo Mítico do mesmo espaço de equipamento. Obtenha esses módulos desmontando equipamentos Míticos do espaço correspondente.
 GeneralText/Guide_HQ_GJ_Title4,Equipment Reforging,Reforja de Itens
 GeneralText/Mode_Endless_Tips13,Overwrite,Sobrescrever
+GeneralText/Endless_Challenge15,Vision Reduction,Visão Reduzida
 GeneralText/UI_HQ_Quest_Type1,Character,Personagem
 GeneralText/Guide_ZD_SJ_Title1,Character Level Up,Subida de Nível
 GeneralText/UI_Result_LvUp_Talent,Talent Points,Pontos de Talento
@@ -3376,6 +3449,7 @@ GeneralText/UI_Setting_KeyInput,Press new key,Pressione a nova tecla
 GeneralText/UI_GameMode_Hunt_Tips1,Please select 3 Divine Tech factions,Selecione 3 facções de Tecnologia Divina
 GeneralText/UI_Archive_SelectToOverride,Please select a save slot to archive your build,Selecione um espaço de salvamento para arquivar sua build
 GeneralText/Mode_Endless_Tips7,Please select a Tech Setup save slot to save/overwrite.,Selecione um espaço de salvamento de Configuração de Tecnologia para salvar/sobrescrever.
+GeneralText/UI_Endless_Unselect,Please select a Trial,Selecione um Teste
 GeneralText/Guide_Sona_Interact,Please select the service you need,Selecione o serviço que você precisa
 GeneralText/UI_QualityUp_Tips2,Select Mythic Module to Install,Selecione o Módulo Mítico para Instalar
 GeneralText/UI_GameMode_Hunt_Tips6,Please select a Boss to challenge,Selecione um Chefe para desafiar
@@ -3383,6 +3457,7 @@ GeneralText/Quest_Name86,Who's the Boss?,Quem é o Boss?
 GeneralText/UI_Main_Quest_EventCount,Investigate Events,Investigar Eventos
 GeneralText/UI_Result_Data_Name2,Events Investigated:,Eventos Investigados:
 GeneralText/Currency_Name,Credit,Crédito
+GeneralText/Endless_Reward06,Credit,Crédito
 GeneralText/UnlockStorageGoldNotEnoughErr,Not enough Credit. Failed to unlock the Warehouse.,Crédito insuficiente. Falha ao desbloquear o Armazém.
 GeneralText/MoneyNotEnoughBuyEquipmentFaild,Not enough Credit. Purchase failed!,Crédito insuficiente. Compra falhou!
 GeneralText/UI_Map_Risk3_Reward_Desc2,Credit +100%,Crédito +100%
@@ -3422,6 +3497,7 @@ GeneralText/UI_HQ_Store_Light_Armor,Light: Armor,Leve: Armadura
 GeneralText/UI_HQ_Store_Light_Boot,Light: Boots,Leve: Botas
 GeneralText/UI_Result_AuxWeapon,Auxiliary,Auxiliar
 GeneralText/Quest_Name27,Auxiliary Firepower,Poder de Fogo Auxiliar
+GeneralText/Endless_Challenge04,Swift Mutation,Mutação Veloz
 GeneralText/Monster_Elite_JuChi_Name6,Swift Ripper,Ripper Ágil
 GeneralText/Monster_Elite_PenHuo_Name4,Swift Sprayer,Sprayer Ágil
 GeneralText/Monster_Elite_JuDun_Name6,Swift Bulwark Zombie,Zumbi Baluarte Ágil
@@ -3537,7 +3613,6 @@ GeneralText/Quest_Name23,Problem Solver (RL),Solucionador de Problemas (Lança-F
 GeneralText/Quest_Name15,Problem Solver (SG),Solucionador de Problemas (Espingarda)
 GeneralText/Quest_Name7,Problem Solver (SMG),Solucionador de Problemas (SMG)
 GeneralText/Quest_Name31,Problem Solver (SR),Solucionador de Problemas (Rifle de Precisão)
-GeneralText/UI_HQ_Char_Zero_Name,Zero,Zero
 GeneralText/Monster_Boss_Mage_Name,Thunder Guardian,Thunder Guardian
 GeneralText/Endless_Type16_Name,Thunderstrike Purge,Expurgo Trovejante
 GeneralText/Monster_Elite_JuChi_Name5,Lightning Ripper,Ripper Elétrico
@@ -3587,6 +3662,7 @@ GeneralText/Endless_Type11_Name,Boss Elimination,Eliminação de Chefe
 GeneralText/UI_Map_Hunt_Name,Boss Hunting Grounds,Campo de Caça aos Bosses
 GeneralText/UI_Set_Graphics_High,High,Alto
 GeneralText/Guide_ZQ_JQ_Title2,High‑Threat Corrupted,Alta Ameaça
+GeneralText/Endless_Reward03,Advanced Essence,Essência Avançada
 GeneralText/Essence2_Name,Advanced Essence,Essência Avançada
 GeneralText/UI_Map_RiskTips2,High Risk,Alto Risco
 GeneralText/UI_HQ_Store_BlackMart,Black Market,Mercado Negro
@@ -3630,6 +3706,7 @@ ScriptText/NPC_Reborn_Text7,"Chosen as top talent by the Divine System, you now 
 ScriptText/NPC_Character_Text15_2,"You all possess special antibodies granted by the Divine, making you immune to the virus’s corruption.","Todos vocês possuem anticorpos especiais concedidos pelo Divino, tornando-os imunes à corrupção do vírus."
 ScriptText/NPC_Reborn_Success_Text4,You've completed another mission brilliantly. The Outstanding Employee trophy for this quarter will most likely bear your name.,Você concluiu outra missão de forma brilhante. O troféu de Funcionário Exemplar deste trimestre muito provavelmente levará seu nome.
 ScriptText/NPC_Reborn_Unlock3_Text1_2,You can find Fortune near the Company Store.,Você pode encontrar Fortune perto da Loja da Companhia.
+ScriptText/NPC_Collection_Text1,"Hello, Specialist. The data system is still being debugged. Its opening time will be announced separately.","Olá, Especialista. O sistema de dados ainda está sendo depurado. O horário de abertura será anunciado separadamente."
 ScriptText/NPC_Artisan_Unlock,"Hello, I’m Fortune from the Engineering Department, specializing in handling all equipment-related matters within the company.","Olá, eu sou Fortune, do Departamento de Engenharia. Sou especialista em tratar de todos os assuntos relacionados a equipamentos na empresa."
 ScriptText/NPC_Reborn_Unlock6_Text2,"You have been granted access to a special anomalous space. By completing a series of time-limited hunting challenges, you will obtain the most substantial loot.","Você recebeu acesso a um espaço anômalo especial. Ao concluir uma série de desafios de caça com limite de tempo, obterá espólios muito substanciais."
 ScriptText/NPC_Talent_Text9,You must have been to the infection zones. Those places are filled with the infected. We need to liberate and reclaim their souls.,Você deve ter visitado as zonas de infecção. Esses lugares estão cheios de infectados. Precisamos libertar e recuperar suas almas.
@@ -3744,6 +3821,7 @@ ScriptText/NPC_Reborn_Success_Text2,The “Soul Asset Recovery Rate” for this 
 ScriptText/NPC_Reborn_Unlock2_Text2,The polar observatory has confirmed an extreme environment infection zone. It is filled with frigid cold and high-threat targets. Please be fully prepared before exploring.,O observatório polar confirmou uma zona de infecção de ambiente extremo. Ela está cheia de frio intenso e alvos de alta ameaça. Prepare-se totalmente antes de explorá-la.
 ScriptText/NPC_Artisan_Name,Fortune,Fortune
 ScriptText/NPC_Store_Name,Profit,Profit
+ScriptText/NPC_Collection_Name,Collins,Collins
 ScriptText/NPC_Reborn_Text8,"According to the Divine Accord, you can temporarily invoke Divine Tech in combat for enhancement.","De acordo com o Acordo Divino, você pode invocar temporariamente Tecnologias Divinas em combate para se fortalecer."
 ScriptText/NPC_Reborn_Fail_Text4,"Your vital signs were briefly lost. Don't be discouraged. According to the Employee Handbook, every accident is a valuable “practical learning opportunity.”","Seus sinais vitais foram perdidos por um breve momento. Não desanime. Segundo o Manual do Funcionário, todo acidente é uma valiosa “oportunidade de aprendizado prático”."
 ScriptText/NPC_Startgame_Text1,The guardian of the forest ended up becoming a virus transmission tower. How ironic.,O guardião da floresta acabou se tornando uma torre de transmissão do vírus. Que irônico.
@@ -4825,3 +4903,38 @@ Correções de bugs
   - Corrigido um problema em que ajustes de volume com controle não entravam em efeito.
   - Corrigido um problema em que missões concluídas não podiam ser selecionadas na interface de Missões ao usar controle.
   - Corrigidos problemas conhecidos que causavam fechamentos anormais do jogo."
+UpdateNotesText/UpdateNotes_0.8.9.3,"Ver 0.8.9.3
+Version Date: 2026.7.21
+
+Update Notes:
+
+Experience Optimizations
+  - Character portraits and avatars have been fully updated. Character portraits in the Inventory interface will no longer display the Warwing.
+  - Changed Boss-exclusive Mythic drops from purely random to include bonus drop rates, with higher Risk Levels increasing the bonus (Headhunt Assault’s bonus drop rate is on par with Risk Level 6), making it easier for Specialists to acquire them more reliably.
+  - Increased the number of selectable affixes when reforging equipment from 2 to 3, making it easier for Specialists to obtain their preferred affixes.
+  - Optimized map resources, reducing VRAM usage during runtime.
+  - Improved controller usability in the Artisan interface.
+
+Bug Fixes
+  - Fixed an issue where using the [Place] shortcut on other equipment in your Inventory during the forging animation could cause equipment to disappear unexpectedly.
+  - Fixed an issue where the Inventory could not be opened after winning a Void Spire battle when using a controller.
+  - Fixed an issue where, when using a controller to move the cursor up and down through layers in the Void Spire interface, the corresponding layer would not be directly selected.
+  - Fixed an issue where the animation frame rate was too low when switching maps in the Mode Selection interface.
+  - Fixed an issue where, after closing the Artisan interface during equipment reforging, reopening it by interacting with the Artisan would not correctly refresh its state.","Ver 0.8.9.3
+Data da Versão: 2026.7.21
+
+Notas da Atualização:
+
+Otimizações de Experiência
+  - Retratos e avatares dos personagens foram totalmente atualizados. Os retratos dos personagens na interface de Inventário não exibirão mais o Warwing.
+  - Drops Míticos exclusivos de Chefes deixaram de ser puramente aleatórios e agora incluem bônus de chance de obtenção; Níveis de Risco mais altos aumentam esse bônus (o bônus de chance de obtenção de HeadHunt Assault equivale ao Nível de Risco 6), facilitando a aquisição desses itens pelos Especialistas de forma mais confiável.
+  - O número de afixos selecionáveis ao reforjar equipamentos aumentou de 2 para 3, facilitando a obtenção dos afixos desejados pelos Especialistas.
+  - Recursos dos mapas foram otimizados, reduzindo o uso de VRAM durante a execução.
+  - Usabilidade do controle melhorada na interface do Artesão.
+
+Correções de Bugs
+  - Corrigido um problema em que usar o atalho de [Colocar] em outro equipamento no Inventário durante a animação de forja podia fazer o equipamento desaparecer inesperadamente.
+  - Corrigido um problema em que o Inventário não podia ser aberto após vencer uma batalha da Torre do Vazio usando controle.
+  - Corrigido um problema em que, ao usar o controle para mover o cursor para cima e para baixo entre camadas na interface da Torre do Vazio, a camada correspondente não era selecionada diretamente.
+  - Corrigido um problema em que a taxa de quadros da animação ficava baixa demais ao trocar de mapa na interface de Seleção de Modo.
+  - Corrigido um problema em que, após fechar a interface do Artesão durante o reforjamento de equipamento, reabri-la ao interagir com o Artesão não atualizava corretamente seu estado."

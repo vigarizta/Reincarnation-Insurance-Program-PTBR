@@ -10,13 +10,15 @@ It is intended for developers, publishers, reviewers, and contributors who want 
 - [Translation Notes](Translation_Notes.md)
 - [Glossary](Glossary.md)
 - [Known Issues](Known_Issues.md)
+- [Compatibility](../../COMPATIBILITY.md)
 
 ## Current Status
 
-- Version: **v1.0.5**
+- Version: **v1.1.0**
+- Compatible Steam BuildID: **24259799**
 - Scope: complete Brazilian Portuguese localization
-- Validation: **3680 / 3680 entries, 0 errors, 0 warnings**
-- In-game testing: completed
+- Validation: **3753 / 3753 entries, 0 errors, 0 warnings**
+- Startup testing with the rebuilt patch: completed
 - Known localization issues: none currently documented
 
 ## Reporting Issues

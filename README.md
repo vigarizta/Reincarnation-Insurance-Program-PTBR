@@ -9,7 +9,7 @@ Community-maintained Brazilian Portuguese localization for **Reincarnation Insur
 ![Community Project](https://img.shields.io/badge/community-project-blue)
 ![Language](https://img.shields.io/badge/language-PT--BR-green)
 ![Game Version](https://img.shields.io/badge/game-Early%20Access-orange)
-![Localization Version](https://img.shields.io/badge/localization-v1.0.5-blue)
+![Localization Version](https://img.shields.io/badge/localization-v1.1.0-blue)
 
 **🇺🇸 English Documentation**
 
@@ -57,9 +57,11 @@ The goal is not only to provide a translation, but to maintain a professional lo
 - ✅ Multiple QA passes
 - ✅ Community maintained
 - ✅ Standalone patch
-- ✅ Final validation: **3680 / 3680 entries, 0 errors, 0 warnings**
+- ✅ Final validation: **3753 / 3753 entries, 0 errors, 0 warnings**
+- ✅ Compatible with Steam BuildID **24259799**
+- ✅ Minimal locres-only patch architecture
 
-Current localization version: **v1.0.5**
+Current localization version: **v1.1.0**
 
 ## Features
 
@@ -124,13 +126,13 @@ AKA_RIP/Content/Paks/
 
 ### 📄 Documentation
 
-Download **RIP_PTBR_Localization_v1.0.zip**.
+Download **RIP_PTBR_Localization_v1.1.0.zip**.
 
 Contains documentation, localization sources and project information.
 
 ### 🇧🇷 Documentação
 
-Baixe **RIP_PTBR_Localization_v1.0.zip**.
+Baixe **RIP_PTBR_Localization_v1.1.0.zip**.
 
 Contém documentação, arquivos-fonte da localização e informações do projeto.
 
@@ -160,6 +162,7 @@ Project files:
 
 - [Roadmap](ROADMAP.md)
 - [Version information](VERSION.md)
+- [Compatibility](COMPATIBILITY.md)
 - [Contributing guide](CONTRIBUTING.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Changelog](CHANGELOG.md)
@@ -194,7 +197,7 @@ Project files:
 
 | Game Version | Localization Version | Status |
 | --- | --- | --- |
-| Early Access | v1.0.5 | Current community release |
+| Steam BuildID 24259799 | v1.1.0 | Current community release |
 | Future game updates | TBD | To be reviewed when new text or UI changes are released |
 
 ## Roadmap
@@ -205,7 +208,7 @@ See [ROADMAP.md](ROADMAP.md).
 
 Latest release:
 
-- [Brazilian Portuguese Localization v1.0](https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/releases/tag/v1.0)
+- [Brazilian Portuguese Localization v1.1.0](https://github.com/vigarizta/Reincarnation-Insurance-Program-PTBR/releases/tag/v1.1.0)
 
 Future release notes should include both English and Portuguese sections.
 
@@ -266,6 +269,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ├── Optional_Patch/
 ├── Screenshots/
 ├── CHANGELOG.md
+├── COMPATIBILITY.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE.txt

@@ -2,10 +2,12 @@
 
 | Field | Value |
 | --- | --- |
-| Current Game Version | Early Access |
-| Current Localization Version | v1.0.5 |
-| Last Updated | 2026-07-14 |
+| Current Game Version | Steam BuildID 24259799 |
+| Current Localization Version | v1.1.0 |
+| Last Updated | 2026-07-21 |
 | Maintainer | vigarizta |
+| Validated Strings | 3753 / 3753 |
+| Patch Architecture | locres-only |
 
 ## Notes
 

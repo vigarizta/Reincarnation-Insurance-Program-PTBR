@@ -4,6 +4,26 @@ All notable localization changes are documented here.
 
 Future releases should include notes in both English and Portuguese.
 
+## v1.1.0 - Steam Build 24259799 Compatibility Rebuild
+
+### English
+
+- Rebuilt the localization using Steam BuildID `24259799` as the base.
+- Updated the project from **3680** to **3753** validated strings.
+- Translated **74** new strings and updated **5** changed source strings.
+- Restored compatibility after the old patch caused crashes on the new game build.
+- Reduced the patch architecture to localization files only, removing outdated UI/Input assets from the public patch.
+- Updated patch, installer, source CSV, checksums, documentation and compatibility notes.
+
+### Português
+
+- Reconstruída a localização usando a Steam BuildID `24259799` como base.
+- Projeto atualizado de **3680** para **3753** strings validadas.
+- Traduzidas **74** novas strings e atualizadas **5** strings com source alterado.
+- Compatibilidade restaurada após o patch antigo causar crash na nova build do jogo.
+- Arquitetura do patch reduzida apenas a arquivos de localização, removendo assets antigos de UI/Input do patch público.
+- Atualizados patch, instalador, CSV-fonte, checksums, documentação e notas de compatibilidade.
+
 ## v1.0.5 - Residual English Fix
 
 ### English
